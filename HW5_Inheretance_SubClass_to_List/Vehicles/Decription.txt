@@ -1,0 +1,46 @@
+Start a new Visual Studio console project, call it Vehicles
+
+[1] Add a new class called Vehicle (you can add it in the same file as class Program, just don’t put it INSIDE of class Program
+
+   >> Edit the Vehicle class and add a string property called Color and an int property called Weight
+   >>  Add a virtual Print method, which takes no parameter, and writes out “Hi from the parent print”.
+
+[2] Now add another new class, called Car, it should inherit from the Vehicle class.
+         >> Give it an int Property called Mileage. (How many miles per gallon of gas it gets.)
+         >> Give it a Print method, which overrides the parent’s Print method. This Print method should print out a message that says:
+“The color of this car is color, it weighs x, and it gets z miles per gallon”        
+Where the value of color comes from its Color prop, the value of x comes from its Weight prop, and the z value comes from the Mileage property.
+       >> provide a 3 argument constructor so the user can create an object and set all 3 properties with the one call to the constructor.
+
+[3] Now add another new class, called Truck, it should inherit from the Vehicle class.
+         >> Give it an int Property called GVW.  (Stands for gross vehicle weight)
+         >> Give it a Print method, which overrides the parent’s Print method. This Print method should print out a message that says:
+“The color of this truck is color, it weighs x, and it can carry z pounds.”        
+Where the value of color comes from its Color prop, the value of x comes from its Weight prop, and the z value comes from the GVW property.
+       >> provide a 3 argument constructor so the user can create an object and set all 3 properties with the one call to the constructor.
+
+
+[4] Now add another new class, called Motorcycle, it should inherit from the Vehicle class.
+         >> Give it an int Property called Displacement.  (This is a measure of engine size, typically between 100 and 1500.)
+         >> Give it a Print method, which overrides the parent’s Print method. This Print method should print out a message that says:
+“The color of this motorcycle is color, it weighs x, and its engine is z cc.”        
+Where the value of color comes from its Color prop, the value of x comes from its Weight prop, and the z value comes from the Displacement property.
+       >> provide a 3 argument constructor so the user can create an object and set all 3 properties with the one call to the constructor.
+
+
+
+
+[4] Now in the Main method of your program.cs, instantiate 6 objects (2 objects of type Car, 2 objects of type Truck, and 2 objects of type Motorcycle).
+
+[5] Create a new List<t> of type Vehicle, and add your 6 objects to the List.
+
+[6] Using a foreach loop, call the Print method for each of the objects in the List. 
+
+
+
+
+
+
+
+
+

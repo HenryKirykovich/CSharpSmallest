@@ -1,0 +1,49 @@
+Start a project and 
+[1] add a parent class, Document  (Mark all your classes as public!)
+Add a string property for Title
+Add a string property for Author
+Add an int property for PageCount
+Add a method Display that takes in no argument and returns nothing, but that is overridable.
+Have it just write out “Display from Document”
+
+[2] add a child class, Book
+Add a constructor to set the 3 properties inherited from the parent
+Add a method Display that overrides the parent, and that writes out the three properties in a meaning full way, such as:
+       The Book Moby Dick by Herman Melville has 433 pages.
+
+[3] add a child class, ShortStory
+Add a constructor to set the 3 properties inherited from the parent
+Add a method Display that overrides the parent, and that writes out the three properties in a meaning full way, such as:
+       The Short Story The Legend of Sleepy Hollow by Washington Irving has 53 pages.
+
+
+[4] add another class (not a child), YouTubeVid
+Add a string property for Title
+Add a string property for Author
+Add a string property for Category
+Add a constructor to set the 3 properties
+Add a method Display that writes out the three properties in a meaning full way, such as:
+       The video NBA Highlights by NBA is in the Sports category.
+       
+=====================================================================
+
+In your Main method, using the constructors, instantiate 2 Book objects, 2 ShortStory objects, and 2 YouTubeVid objects. Don’t fuss over the names and data, just make stuff up, use my examples if you like.
+
+Make sure that all works.
+
+Now back with your class definitions, add an interface called IDisplay
+It should define a required method called Display that takes in no parameters and returns nothing.
+Add that IDisplay interface to be inherited to both the Document parent class, and the YouTubeVid class.
+Since those classes already support such a method, no change is required to those classes.
+
+Back in the Program.cs file,   add a using statement above the namespace tag
+       create a List of type IDisplay, and add the 6 objects to it.
+       Now add a foreach loop that calls the Display method on each item in the List.
+       
+Here is the output from my version:
+
+
+
+
+
+

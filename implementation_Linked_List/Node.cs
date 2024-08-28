@@ -18,7 +18,7 @@ namespace implementation_Linked_List
 
             public Node<T> Next { get; set; }     // initializing next node of list 
         
-
+            
 
     }
 }

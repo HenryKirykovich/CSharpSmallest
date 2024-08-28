@@ -19,7 +19,7 @@ namespace implementation_Linked_List
 
             myList.Loop(x => Console.WriteLine(x));
 
-            Console.WriteLine("------------------------------"); // desplaying all list by own method 
+            Console.WriteLine("------------------------------"); // displaying all list by own method 
             NodeList<int> myList2 = new NodeList<int>(1);
             myList2.AddList(2);
             myList2.AddList(3);
@@ -31,7 +31,7 @@ namespace implementation_Linked_List
             
 
 
-            Console.WriteLine("------------------------------"); // desplaying all list by using typical iteration 
+            Console.WriteLine("------------------------------"); // displaying all list by using typical iteration 
 
 
             foreach (var item in myList)

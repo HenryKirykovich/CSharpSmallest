@@ -10,7 +10,7 @@
             long number = Convert.ToInt64(Console.ReadLine());
 
             Console.WriteLine();
-            Console.Write($"{FibonacciMethod(number)}");
+            Console.Write($"{FibonacciMethod(number)}");   // invoke a method that calculates Number Fibonacci and displays only this
 
 
             Console.WriteLine();
@@ -18,7 +18,7 @@
 
             for (int i = 0; i < number; i++)
             {
-                Console.Write($"\t{FibonacciMethod2(i)}");
+                Console.Write($"\t{FibonacciMethod2(i)}");  // invoking method that calculates All sequences Number Fibonacci and display those 
             }
             
         }

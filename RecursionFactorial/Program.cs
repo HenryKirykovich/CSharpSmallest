@@ -7,12 +7,22 @@
             Console.WriteLine("Finding the Factorial of a given number using recursion");
             Console.WriteLine();
 
-            Console.WriteLine("PLease enter you number");
-            int input = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("PLease enter your number: ");
+            int input = Convert.ToInt32(Console.ReadLine());  //simple input inpit's number
+
 
             if (input > 0)
             {
-                Console.WriteLine(RecursionMethodFactorial(input));
+                for (int i = 0; i < input; i++)
+                {
+                    Console.WriteLine($"\t{i} itteration: {RecursionMethodFactorial(i)}");  // for displaying results from any itteration 
+                }
+                Console.WriteLine();
+                Console.WriteLine("\tYour final result  " + RecursionMethodFactorial(input));  // Factorial
+            }
+            else
+            {
+                Console.WriteLine("Invalid number for Factorial.Only real number."); 
             }
         }
         

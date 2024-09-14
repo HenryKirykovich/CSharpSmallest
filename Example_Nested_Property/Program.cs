@@ -7,16 +7,17 @@
             Console.WriteLine("Example Simple Nested Property");
 
 
-            Coordinate my_coordinate = new Coordinate();
-            my_coordinate.point = new Property();
+                      
             
-            Console.WriteLine("PLease, input first coordinate of point for x axes: ");
+            Console.WriteLine("PLease, input first coordinate of point for x axes: ");    // input coordinate
             float x = Convert.ToSingle(Console.ReadLine());
             Console.WriteLine("PLease, input second coordinate of point for y - axes: ");
             float y = Convert.ToSingle(Console.ReadLine());
-            
-            my_coordinate.point.height = x;
-            my_coordinate.point.width = y;
+
+
+
+            Coordinate my_coordinate = new Coordinate(x,y);  // initialiasation new object and passing coordinate
+           
 
 
             // Displaying both coordinate:

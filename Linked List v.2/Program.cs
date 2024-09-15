@@ -9,7 +9,7 @@ namespace Linked_List_v._2
             Console.WriteLine("--------------- Linked List v.2 ---------------");
 
             LinkedList nw_list = new LinkedList();
-            nw_list.AddToList(10);
+            nw_list.AddToList(2220);
             nw_list.AddToList(20);
             nw_list.AddToList(30);
             nw_list.AddToList(40);
@@ -35,8 +35,8 @@ namespace Linked_List_v._2
 
     public class Node
     {
-        public object data;  // there is data of my Node
-        public Node Next;    // there is pointer of my Node
+        public object? data;  // there is data of my Node
+        public Node? Next;    // there is pointer of my Node
 
 
         public Node()
@@ -54,8 +54,8 @@ namespace Linked_List_v._2
 
     class LinkedList
     {
-        public Node head;
-        public Node newObject;
+        public Node? head;
+        public Node? newObject;
 
         public LinkedList()
         {

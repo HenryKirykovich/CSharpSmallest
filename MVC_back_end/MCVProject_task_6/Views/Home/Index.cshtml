@@ -1,0 +1,25 @@
+﻿@{
+    Layout = null;
+}
+
+@model MCVProject.Models.PhoneBook
+
+<form asp-action="Page2" method="post">
+    <label>Last Name: </label> <input asp-for="LastName" />
+    <br />
+    <label>First Name: </label> <input asp-for="FirstName" />
+    <br />
+    <label>Phone: </label> <input asp-for="Phone" />
+    <br />
+    <label>your E-mail: </label> <input asp-for="email" />
+    <br />
+    <label>Your address: </label> <input asp-for="address" />
+    <br />
+    <label>User Name: </label> <input asp-for="UserName" />
+    <br />
+    <label>Set your Password: </label> <input asp-for="Password" />
+    <br />
+    
+    <button type="submit" >Submit</button>
+</form>
+

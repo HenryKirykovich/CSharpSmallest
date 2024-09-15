@@ -10,7 +10,7 @@ namespace Binary_Trees
 {
     public class BinarySearchTree
     {
-        Node root;
+        Node root;                                  // this is 'start' point for tree
 
         public void Insert(Node node)
         {
@@ -19,7 +19,7 @@ namespace Binary_Trees
 
         private Node InsertHelper(Node root, Node node)
         {
-            int data = node.Data;
+            int data = node.Data;  // temporarily save value of inpute data for comparison 
 
             if (root == null)
             {

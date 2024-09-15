@@ -11,7 +11,7 @@ namespace HashTable_simple_example_
             Console.WriteLine();
 
 
-            Hashtable my_hashtable = new Hashtable();
+            Hashtable my_hashtable = new Hashtable();   // declaring hash table. it is same like cortege 
 
             Console.WriteLine("Please value your collection");
             int number = Int32.Parse(Console.ReadLine());

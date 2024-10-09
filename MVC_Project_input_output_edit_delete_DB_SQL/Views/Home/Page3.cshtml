@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = "_LayoutMyFirst";
+}
+
+@model MCVProject.Models.PhoneBook // important ! deploying module from retrive current data to Form
+
+
+<a1>Information:</a1>
+<a2>Page 3</a2>
+<br />
+<br />
+
+
+  
+
+    <form asp-action="UpdateBook" method="post">
+        <label>Last Name: </label> <input asp-for="LastName" value="@Model.LastName"/>
+        <br />
+        <label>First Name: </label> <input asp-for="FirstName" value="@Model.FirstName" />
+        <br />
+        <label>Phone: </label> <input asp-for="Phone" value="@Model.Phone" />
+        <br />
+        <label>your E-mail: </label> <input asp-for="email" value="@Model.email" />
+        <br />
+        <label>Your address: </label> <input asp-for="address" value="@Model.address" />
+        <br />
+        <label>User Name: </label> <input asp-for="UserName" value="@Model.UserName" />
+        <br />
+        <label>Set your Password: </label> <input asp-for="Password" value="@Model.Password" />
+        <br />
+
+        <button type="submit">Submit</button>
+    </form>
+

@@ -27,12 +27,12 @@
         }
 
 
-        public Phone_list()
+        public Phone_list() // for initialized prupose should use constructor by default
         {
             
         }
 
-        public Phone_list(string _First_Name, string _Last_Name, string _Number)
+        public Phone_list(string _First_Name, string _Last_Name, string _Number) //constructor witj parametr 
         {
             First_Name = _First_Name;
             Last_Name = _Last_Name;

@@ -16,7 +16,7 @@ namespace My_Stack
             
 
             // ui question
-            Console.WriteLine("How many Name would you like store here?");
+            Console.WriteLine("How many Friends would you like store here?");
             int number = Convert.ToInt32(Console.ReadLine());
 
             // itteration  for populating stack by phone_list class 

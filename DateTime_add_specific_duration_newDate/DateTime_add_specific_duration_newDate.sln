@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime_add_specific_duration_newDate", "DateTime_add_specific_duration_newDate.csproj", "{7514FE08-121D-4908-BBF2-4E4FC7A17B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7514FE08-121D-4908-BBF2-4E4FC7A17B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7514FE08-121D-4908-BBF2-4E4FC7A17B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7514FE08-121D-4908-BBF2-4E4FC7A17B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7514FE08-121D-4908-BBF2-4E4FC7A17B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2168F0E6-CC27-44E7-9F76-1ACF7F84D76B}
+	EndGlobalSection
+EndGlobal

@@ -19,7 +19,7 @@ namespace TestShop.Controllers
             _carCategory = iCarsCat;
         }
 
-        public ViewResult Index()
+        public ViewResult Index() // send data to Views.Home.Index
         {
             
 

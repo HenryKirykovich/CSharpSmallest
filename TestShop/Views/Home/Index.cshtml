@@ -3,18 +3,19 @@
 *@
 @using TestShop.ViewModels
 @model CarsListViewModel
+    
 
-
-    <h2>All Cars</h2>
-
-
+    <h1>All Cars</h1>
     <h2>@Model.curreCategory</h2>
 
-@foreach (var car in Model.AllCars)
-{
-            <div>
+<div class="row mt-5 mb-2">
+    @foreach (var car in Model.AllCars)
+    {
 
-                <h3>Model: @car.Name</h3>
-                <p>Price: @car.Price.ToString("C")</p>
-            </div>
-}
+                <div class="col-lg-1">
+                    <img class="img-thumbnail" src="@car.Img" alt="@car.Name"/>
+                    <h3>Model: @car.Name</h3>
+                    <p>Price: @car.Price.ToString("C")</p>
+                </div>
+    }
+</div>

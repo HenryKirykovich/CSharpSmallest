@@ -1,5 +1,9 @@
+using System.Runtime.CompilerServices;
 using TestShop.Interfaces;
 using TestShop.Mocks;
+
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 

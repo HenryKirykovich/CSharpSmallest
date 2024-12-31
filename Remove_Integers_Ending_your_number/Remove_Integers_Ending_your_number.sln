@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Integers_Ending_your_number", "Remove_Integers_Ending_your_number.csproj", "{A0256C65-100C-4E1D-8F5B-4BFDBF7B2F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0256C65-100C-4E1D-8F5B-4BFDBF7B2F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0256C65-100C-4E1D-8F5B-4BFDBF7B2F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0256C65-100C-4E1D-8F5B-4BFDBF7B2F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0256C65-100C-4E1D-8F5B-4BFDBF7B2F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F752A3A9-1561-4181-830D-B44825A5B782}
+	EndGlobalSection
+EndGlobal

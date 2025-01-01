@@ -49,6 +49,9 @@ namespace SnakeGame
        
         private static readonly Random randomPositionFood = new Random();
 
+        private List<Rectangle> _snake = new List<Rectangle> (); // gathering all element ( head, fruit , new body)
+
+
         public MainWindow()
         {
             InitializeComponent();
@@ -60,6 +63,7 @@ namespace SnakeGame
         private void GameCanvas_Loaded(object sender, RoutedEventArgs e)
         {
             _snakeHead = CreateSnakeSegment(new Point(5, 5)); // method for defining position of Head
+            _snake.Add(_snakeHead);
             GameCanvas.Children.Add(_snakeHead); // displaying head of snake on Canvas (sending Head to Canvas via Children property
 
 
@@ -76,10 +80,35 @@ namespace SnakeGame
         private void Timer_Tick(object sender, EventArgs e)
         {
             Point newHeadPosition = CalculateNewHeadPosition(); // the coordinate head snake
+
+            if (newHeadPosition == _foodPosition)
+            {
+                EatFood();
+                PlaceFood();
+            }
+
+            for(int i = _snake.Count - 1; i > 0; i--)
+            {
+                Canvas.SetLeft(_snake[i], Canvas.GetLeft(_snake[i-1]));
+                Canvas.SetTop(_snake[i], Canvas.GetTop(_snake[i - 1]));
+            }
+
             Canvas.SetLeft(_snakeHead, newHeadPosition.X * SnakeSquareSize);
             Canvas.SetTop(_snakeHead, newHeadPosition.Y * SnakeSquareSize);
             
         }
+
+        private void EatFood()
+        {
+           // Find the food image at the current food position and remove it
+           
+            GameCanvas.Children.Remove(GameCanvas.Children.OfType<System.Windows.Controls.Image>().FirstOrDefault());
+
+            Rectangle newSnake = CreateSnakeSegment(_foodPosition);
+            _snake.Add(newSnake);
+            GameCanvas.Children.Add(newSnake);
+        }
+
 
         private Point CalculateNewHeadPosition()
         {
@@ -149,8 +178,8 @@ namespace SnakeGame
                 Fill = _snakeColor
             };
 
-            Canvas.SetLeft(rectangle, position.X + SnakeSquareSize);
-            Canvas.SetTop(rectangle, position.Y + SnakeSquareSize);
+            Canvas.SetLeft(rectangle, position.X * SnakeSquareSize);
+            Canvas.SetTop(rectangle, position.Y * SnakeSquareSize);
 
             return rectangle;
         }

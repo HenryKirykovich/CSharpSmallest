@@ -24,10 +24,10 @@ namespace Using_Delegate_for_carrier_Method_Event
             valueMoney = _valueMoney;
         }
 
-        public static string PrintManyArguments(string FirstName, string LastName, int ValueMoney)   // declare method that we would like to invoke by Delegate
-        {
-            return $"Dear, {FirstName} {LastName} you have in your account is ${ValueMoney}";
-        }
+        //public static string PrintManyArguments(string FirstName, string LastName, int ValueMoney)   // declare method that we would like to invoke by Delegate
+        //{
+        //    return $"Dear, {FirstName} {LastName} you have in your account is ${ValueMoney}";
+        //}
 
 
         public static string PrintOneObject(Accounts accounts) // declare method that we would like to invoke by Delegate

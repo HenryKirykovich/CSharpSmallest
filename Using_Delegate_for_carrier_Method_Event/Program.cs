@@ -25,29 +25,49 @@
             myList.Add(data2);
             myList.Add(data3);
 
-
+            // Simple way pass to another Method int, int , int for printing 
 
             Console.WriteLine("Printing three arguments");
-            ClientsAccount myDelegate = new(Accounts.PrintManyArguments);  // invoking method that printing dates by using Delegate #1 
+            ClientsAccount myDelegate = PrintManyArguments;  // invoking method that printing dates by using Delegate #1 
             Console.WriteLine(myDelegate("Henry", "Kirykovich", 9999));
-            Console.WriteLine(myDelegate("Hanna", "Kirykovich", 7777));
-            Console.WriteLine(myDelegate("Vlad", "Kirykovich", 555));
+            myDelegate += PrintManyArguments2;
+
+
+            // for Account object 
+
 
 
             Console.WriteLine();
             Console.WriteLine("Printing object");
-            AccountShowing myDelegate2 = new(Accounts.PrintOneObject); // invoking method that printing dates by using Delegate #2 
+            AccountShowing myDelegate2 = Accounts.PrintOneObject; // invoking method that printing dates by using Delegate #2 
             Console.WriteLine(myDelegate2(data1));
             Console.WriteLine(myDelegate2(data2));
             Console.WriteLine(myDelegate2(data3));
 
 
+
+             // pass List<object> to Print method
+
             Console.WriteLine();
             Console.WriteLine("Printing list of object");
-            ShowingAnyObjectList myDelegate3 = new(Accounts.PrintList);  // invoking method that printing dates by using Delegate #3 
-            myDelegate3(myList); 
-            
+            ShowingAnyObjectList myDelegate3 = Accounts.PrintList;  // invoking method that printing dates by using Delegate #3 
+            myDelegate3(myList);
 
+
+
+
+
+
+            static string PrintManyArguments(string FirstName, string LastName, int ValueMoney)   // declare method that we would like to invoke by Delegate
+            {
+                return $"Dear, {FirstName} {LastName} you have in your account is ${ValueMoney}";
+            }
+
+
+            static string PrintManyArguments2(string FirstName, string LastName, int ValueMoney)   // declare method that we would like to invoke by Delegate
+            {
+                return $"Dear, {FirstName} {LastName} you have in your account is ${ValueMoney}";
+            }
 
 
         }

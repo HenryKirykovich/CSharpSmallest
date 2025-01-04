@@ -19,12 +19,10 @@ namespace DelegatesCompareNames
 
             // this is the delegate instantiation
             //OurComparer delegateVarOne = new OurComparer(EmployeeName.CompareFirstNames);  // point variable name to one of the compare methods
-            OurComparer delegateVarOne;
-            OurComparer delegateVarTwo;
-            OurComparer delegateVarThree;
-            delegateVarOne = EmployeeName.CompareFirstNames;  // point variable name to one of the compare methods
-            delegateVarTwo = EmployeeName.CompareLengthNames;
-            delegateVarThree = EmployeeName.CompareVowels;
+            OurComparer delegateVarOne = EmployeeName.CompareFirstNames;  // point variable name to one of the compare methods;
+            //OurComparer delegateVarTwo = EmployeeName.CompareLengthNames;
+            // OurComparer delegateVarThree = EmployeeName.CompareVowels; ;
+            
             // notice how I had to qualify the method .compareFirstNames with EmployeeName.CompareFirstNames since
             // that method is not in this class, it is a static method over in the EmployeeName class.
 

@@ -1,20 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
+using System.ComponentModel;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Runtime.Remoting.Messaging;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Lambda_3
+namespace Lambda4
 {
-    public class Program   // find the number of an array and the square of each number. ex. 8 => 64 9 => 81
+    internal class Program
     {
-
         static void Main(string[] args)
         {
+
+
             Console.WriteLine("Enter your number");
             List<int> list = new List<int>();
             int num;
@@ -38,25 +37,23 @@ namespace Lambda_3
                 catch (Exception)
                 {
 
-                    throw new Exception("PLease check your input and Try again");
+                    throw new Exception("Please check your input and Try again");
                 }
             }
 
-            var sqr = list.Select(n => n * n); // Creating a query expression that retrieves even numbers from the LIst
-            Console.WriteLine($"Format your new var  {sqr.GetType()}");
+           
+            
+            var sqr = list
+                .GroupBy(number => number) // sort by group 
+                .Select(group => new { Number = group.Key, Count = group.Count() }); //sort group by number and count times
 
 
 
-            foreach (int i in sqr)
+            foreach (var i in sqr)
             {
-                Console.WriteLine(i);
-
+                Console.WriteLine($"Number {i.Number} appears {i.Count} times");
 
             }
-
-
-
         }
-
     }
 }

@@ -41,11 +41,29 @@ namespace Lambda4
                 }
             }
 
-           
-            
+
+
             var sqr = list
                 .GroupBy(number => number) // sort by group 
                 .Select(group => new { Number = group.Key, Count = group.Count() }); //sort group by number and count times
+
+            
+            
+            //===================================================================
+            //using query syntax
+
+
+            //var sqr = from x in list
+            //          group x by x into y
+            //          select y;                      ;
+
+            //foreach (var i in sqr)
+            //{
+            //    Console.WriteLine($"Number {i.Key} appears {i.Count()} times");
+
+            //}
+
+            // ===================================================================
 
 
 

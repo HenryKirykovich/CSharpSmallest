@@ -11,7 +11,7 @@ namespace Lambda5
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Enter your word");
+            Console.WriteLine("Enter your word"); // Task the same like previous example - calculating of each character in a given string
             string my_word = Console.ReadLine().ToLower();
             Console.WriteLine($"you sat  {my_word }");
             Console.WriteLine();

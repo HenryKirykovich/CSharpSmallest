@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_4", "..\Lambda4\Lamb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_5", "..\Lambda5\Lambda_5.csproj", "{6DDC4ACD-32BD-4013-9E0C-4B144D981823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_6", "..\Lambda_6\Lambda_6.csproj", "{8150F1A1-8024-4BCB-BBD0-D0903CB2A4E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6DDC4ACD-32BD-4013-9E0C-4B144D981823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DDC4ACD-32BD-4013-9E0C-4B144D981823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DDC4ACD-32BD-4013-9E0C-4B144D981823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8150F1A1-8024-4BCB-BBD0-D0903CB2A4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8150F1A1-8024-4BCB-BBD0-D0903CB2A4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8150F1A1-8024-4BCB-BBD0-D0903CB2A4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8150F1A1-8024-4BCB-BBD0-D0903CB2A4E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,6 +8,8 @@ namespace Lambda6
 {
     internal class Program
     {
+
+        //Task: display numbers, multiplication of numbers with frequency and the frequency of a number in an array.
         static void Main(string[] args)
         {
             Console.WriteLine("Input 5 numbers");

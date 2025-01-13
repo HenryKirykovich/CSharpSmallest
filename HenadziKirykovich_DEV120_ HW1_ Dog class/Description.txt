@@ -1,0 +1,24 @@
+start a project new console project
+
+at the end of the Program class, add a new class definition named Dog
+
+In there
+
+   (1) create a string property for breed
+
+   (2) create an int  property for weight
+
+Then back in your Program  Main method
+
+   (3) create 2 instances of Dog objects
+
+   (4) set each of their 2 properties
+
+(5) then write those values out to the console with lines that should look like
+
+Dog1 is a Collie and weighs 42 pounds
+Dog2 is a Springer and weighs 28 pounds
+
+
+(You Dog class does not need a constructor, but if you are feeling
+adventurous, write one and then use it.)

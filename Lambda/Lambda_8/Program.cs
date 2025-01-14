@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lambda8
+namespace Lambda_8
 {
     internal class Program
     {

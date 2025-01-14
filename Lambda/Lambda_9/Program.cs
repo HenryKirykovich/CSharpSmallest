@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lambda9
+namespace Lambda_9
 {
     internal class Program
     {

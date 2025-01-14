@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Lambda4
+namespace Lambda_4
 {
     internal class Program
     {

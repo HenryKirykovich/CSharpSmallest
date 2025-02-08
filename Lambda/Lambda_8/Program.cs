@@ -38,6 +38,8 @@ namespace Lambda_8
                 Console.WriteLine("No cities match the criteria.");
             }
 
+            Console.ReadLine();
+
         }
     }
 }

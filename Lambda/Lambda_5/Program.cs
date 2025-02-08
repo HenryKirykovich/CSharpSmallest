@@ -45,6 +45,7 @@ namespace Lambda5
                 Console.WriteLine($"Characters {i.Number} appears {i.Count} times");
 
             }
+            Console.ReadLine();
 
         }
     }

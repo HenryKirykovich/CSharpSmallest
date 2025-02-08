@@ -53,6 +53,7 @@ namespace Lambda_9
 
             }
 
+            Console.ReadLine();
             
 
         }

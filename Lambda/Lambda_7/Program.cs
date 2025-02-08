@@ -56,6 +56,8 @@ namespace Lambda_7
                 Console.WriteLine($"Number {i.Number} appears {i.Count} times = multiplication of {i.Amount} ");
 
             }
+
+            Console.ReadLine();
         }
     }
 }

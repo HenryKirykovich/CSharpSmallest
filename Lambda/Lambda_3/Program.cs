@@ -54,7 +54,7 @@ namespace Lambda_3
 
             }
 
-
+            Console.ReadLine();
 
         }
 

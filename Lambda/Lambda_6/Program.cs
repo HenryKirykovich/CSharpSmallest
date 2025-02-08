@@ -41,7 +41,7 @@ namespace Lambda_6
 
             }
 
-
+            Console.ReadLine();
         }
     }
 }

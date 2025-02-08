@@ -72,6 +72,8 @@ namespace Lambda_4
                 Console.WriteLine($"Number {i.Number} appears {i.Count} times");
 
             }
+
+            Console.ReadLine();
         }
     }
 }

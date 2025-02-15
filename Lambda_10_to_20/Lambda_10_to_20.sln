@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_10", "Lambda_10.csproj", "{09489B66-519C-4C25-ACA0-7A8D82BCC14C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_11", "..\Lambda_11\Lambda_11.csproj", "{E3F9775C-0A57-4352-AFA3-3CCD6728783D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda11", "..\Lambda_11\Lambda11.csproj", "{E3F9775C-0A57-4352-AFA3-3CCD6728783D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

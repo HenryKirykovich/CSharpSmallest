@@ -49,7 +49,7 @@ namespace Lambda_11
 
             my_numbers.Sort(); // sorting list 
             int number_in_array = my_numbers.Count; // get length of array 
-            int[] my_new_array = my_numbers.OrderByDescending(x => x).ToArray(); // Desending order 
+            int[] my_new_array = my_numbers.OrderByDescending(x => x).ToArray(); // Descending order 
 
             Console.WriteLine();
             Console.WriteLine($"he top {signal} records from the list are:");

@@ -24,6 +24,9 @@
             {
                 Console.WriteLine("Invalid number for Factorial.Only real number."); 
             }
+
+
+            Console.ReadLine();
         }
         
         public static int RecursionMethodFactorial(int input)
@@ -43,5 +46,7 @@
         }
         
 
+        
+           
     }
 }

@@ -18,17 +18,26 @@ namespace RecursionFibonacci
 
             Console.WriteLine();
 
+            //for (int i = 0; i < input; i++)
+            //{
+            //    Console.WriteLine(Lambda.MyFibFun(i) + "");
+            //}
             for (int i = 0; i < input; i++)
             {
-                Console.WriteLine(MyFibFun(i) + "");
+                Console.WriteLine(Lambda.GetFibonacci(i) + "");
             }
+
+
         }
 
-        static int MyFibFun(int i)
-        {
-            if (i <= 1) return i;
-            return MyFibFun(i - 1) + MyFibFun(i - 2);
-        }
+
+        //static int MyFibFun(int i)
+        //{
+        //    if (i <= 1) return i;
+        //    return MyFibFun(i - 1) + MyFibFun(i - 2);
+        //}
+             
+           
 
     }         
 

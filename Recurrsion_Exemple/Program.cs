@@ -24,6 +24,8 @@ namespace Recursion_Example
             Console.WriteLine($"Your factorial will be {Factorial.Fact(factorial)}");
             string result = Factorial.Fact(factorial).ToString("N2");
             Console.WriteLine(result);
+
+            Console.WriteLine();
         }
     }
 

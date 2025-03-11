@@ -45,8 +45,7 @@ namespace Lambda_2
             sort.ToList().ForEach(n => { Array.Sort(sort); Console.WriteLine(n); });
             Console.WriteLine($"Format your new var  {sort.GetType()} and your variable {Console.WriteLine()}");
 
-            // list_num.ToList().ForEach(n => { Array.Sort(list_num); Console.WriteLine($"The type object: {list_num.GetType()};  number of array {n}"); });
-
+            
             foreach (int i in sort)
             {
                 Console.WriteLine(i);

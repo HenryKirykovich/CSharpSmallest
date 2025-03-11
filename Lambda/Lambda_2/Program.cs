@@ -12,6 +12,8 @@ namespace Lambda_2
     {
         static void Main(string[] args)
         {
+            // list.Where(n => n % 2 == 0); // Creating a query expression that retrieves even numbers from the LIst
+            Console.WriteLine("list.Where(n => n % 2 == 0); // Creating a query expression that retrieves even numbers from the LIst");
             Console.WriteLine("Enter your number");
             List<int> list = new List<int>();
             int num;
@@ -40,9 +42,10 @@ namespace Lambda_2
             }
 
             var sort = list.Where(n => n % 2 == 0); // Creating a query expression that retrieves even numbers from the LIst
-            Console.WriteLine($"Format your new var  {sort.GetType()}");
+            sort.ToList().ForEach(n => { Array.Sort(sort); Console.WriteLine(n); });
+            Console.WriteLine($"Format your new var  {sort.GetType()} and your variable {Console.WriteLine()}");
 
-
+            // list_num.ToList().ForEach(n => { Array.Sort(list_num); Console.WriteLine($"The type object: {list_num.GetType()};  number of array {n}"); });
 
             foreach (int i in sort)
             {

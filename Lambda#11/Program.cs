@@ -14,15 +14,16 @@ namespace Lambda_11
             // members of list : ....   =>  How many records you want to display ? : 3  = > The top 3 records from the list are : ...
 
             Console.WriteLine("LIst you number ");
-            Console.WriteLine("10,20,30,40,60");
-            int[] list = new int[] {10,20,30,40,60 };
+            Console.WriteLine("24,2,30,40,60");
+            int[] list = new int[] {24,2,30,40,60 };
             Console.WriteLine("PLease set you Top number considering amount number");
             int my_top = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine();
 
             Console.WriteLine("After Sorting  are: ");
-            list.ToList().ForEach(x => { Array.Sort(list); Console.WriteLine($"{x}"); });
+            Array.Sort(list);
+            list.ToList().ForEach(x => { Console.WriteLine($"{x}"); });
             
             Console.WriteLine();
             

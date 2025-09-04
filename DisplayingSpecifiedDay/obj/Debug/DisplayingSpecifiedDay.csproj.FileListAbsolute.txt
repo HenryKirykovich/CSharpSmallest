@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DisplayingSpecifiedDay\bin\Debug\DisplayingSpecifiedDay.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DisplayingSpecifiedDay\bin\Debug\DisplayingSpecifiedDay.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DisplayingSpecifiedDay\bin\Debug\DisplayingSpecifiedDay.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DisplayingSpecifiedDay\obj\Debug\DisplayingSpecifiedDay.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DisplayingSpecifiedDay\obj\Debug\DisplayingSpecifiedDay.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DisplayingSpecifiedDay\obj\Debug\DisplayingSpecifiedDay.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DisplayingSpecifiedDay\obj\Debug\DisplayingSpecifiedDay.pdb

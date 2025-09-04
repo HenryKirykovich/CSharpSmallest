@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\bin\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.exe
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\bin\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.deps.json
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\bin\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.runtimeconfig.json
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\bin\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.dll
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\bin\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.pdb
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.dll
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\refint\C#Henadzi_Kirykovich_user_authentication.dll
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.pdb
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\C#Henadzi_Kirykovich_user_authentication.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_user_authentication\obj\Debug\net8.0\ref\C#Henadzi_Kirykovich_user_authentication.dll

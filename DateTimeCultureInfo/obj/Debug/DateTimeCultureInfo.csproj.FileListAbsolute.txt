@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTimeCultureInfo\bin\Debug\DateTimeCultureInfo.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTimeCultureInfo\bin\Debug\DateTimeCultureInfo.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTimeCultureInfo\bin\Debug\DateTimeCultureInfo.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTimeCultureInfo\obj\Debug\DateTimeCultureInfo.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTimeCultureInfo\obj\Debug\DateTimeCultureInfo.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTimeCultureInfo\obj\Debug\DateTimeCultureInfo.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTimeCultureInfo\obj\Debug\DateTimeCultureInfo.pdb

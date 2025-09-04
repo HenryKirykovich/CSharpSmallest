@@ -1,0 +1,33 @@
+
+
+Create a console .Net core app.
+In the same Program.cs file that the class Progam is defined, after the closing brace of the class
+Program definition, insert a new public class named Student. The idea of this class is to model students
+and we could create lots of student objects, but we will test it with just three.
+In the Main method, add a Console.Readline() at the end of that code. Run your program. It won’t do
+much, but debug any problems before proceeding.
+Now, back in this Student class, create a FirstName and also a LastName property. Again, run your
+program to check for errors.
+Write a constructor method that takes in 2 strings, use those two passed in values to set the FirstName
+and LastName properties.
+Create a private array of type double named grades of size 4. This is a good old array as you used in
+Prog 110. Look in my Prog110 WORD book in the reference folder if you can’t remember arrays.
+Hard code the grades to be a 9, 10, 8, 10 (yes, all students will have the same grades!)
+Now add a 2nd method called GradeAverage which takes no input parameters but returns a double. In
+the method’s code, calculate the average of the 4 array values and return that double value.
+We are done with the Student class. Run the program and check for errors.
+Now move to the Main method.
+Create an array of type Student and size 3
+Create three student objects from your Student class, setting their names with the constructor call. You
+can “hard code” these, they do not have to be entered from user input, but certainly you can if you like,
+add each of your student objects to that array.
+Build a loop that loops thru the array and writes out the students first and last name. Debug this and
+get this all working.
+Now edit your loop so that it writes out first name last name and the grade average (using a call to the
+objects GradeAverage method. Use placeholder in the Console.WriteLine and the output should look
+like:
+My name is John Doe and my average is 9.25
+My name is Suzie Que and my average is 9.25
+My name is Bugs Bunny and my average is 9.25
+Make sure you are high in the directory structure and ZIP ALL the files in this solution and submit to
+canvas.

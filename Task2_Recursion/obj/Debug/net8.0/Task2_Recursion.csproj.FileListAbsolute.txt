@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\bin\Debug\net8.0\Task2_Recursion.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\bin\Debug\net8.0\Task2_Recursion.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\bin\Debug\net8.0\Task2_Recursion.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\bin\Debug\net8.0\Task2_Recursion.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\bin\Debug\net8.0\Task2_Recursion.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\Task2_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\Task2_Recursion.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\Task2_Recursion.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\Task2_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\Task2_Recursion.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\Task2_Recursion.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\refint\Task2_Recursion.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\Task2_Recursion.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\Task2_Recursion.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Task2_Recursion\obj\Debug\net8.0\ref\Task2_Recursion.dll

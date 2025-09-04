@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using_Delegate_for_carrier_Method_Event", "Using_Delegate_for_carrier_Method_Event.csproj", "{CFF7209F-D4D4-4B09-B04B-A686AF52F5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF7209F-D4D4-4B09-B04B-A686AF52F5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF7209F-D4D4-4B09-B04B-A686AF52F5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF7209F-D4D4-4B09-B04B-A686AF52F5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF7209F-D4D4-4B09-B04B-A686AF52F5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8EABB3C-A9C5-49F3-A1CD-8E1415F8D9D0}
+	EndGlobalSection
+EndGlobal

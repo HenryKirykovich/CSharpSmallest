@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\SimpleTryCatchException\bin\Debug\net8.0\SimpleTryCatchException.exe
+C:\Users\info\Desktop\SimpleTryCatchException\bin\Debug\net8.0\SimpleTryCatchException.deps.json
+C:\Users\info\Desktop\SimpleTryCatchException\bin\Debug\net8.0\SimpleTryCatchException.runtimeconfig.json
+C:\Users\info\Desktop\SimpleTryCatchException\bin\Debug\net8.0\SimpleTryCatchException.dll
+C:\Users\info\Desktop\SimpleTryCatchException\bin\Debug\net8.0\SimpleTryCatchException.pdb
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\SimpleTryCatchException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\SimpleTryCatchException.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\SimpleTryCatchException.AssemblyInfo.cs
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\SimpleTryCatchException.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\SimpleTryCatchException.dll
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\refint\SimpleTryCatchException.dll
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\SimpleTryCatchException.pdb
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\SimpleTryCatchException.genruntimeconfig.cache
+C:\Users\info\Desktop\SimpleTryCatchException\obj\Debug\net8.0\ref\SimpleTryCatchException.dll

@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_ComparesTwoDates\bin\Debug\DateTime_ComparesTwoDates.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_ComparesTwoDates\bin\Debug\DateTime_ComparesTwoDates.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_ComparesTwoDates\bin\Debug\DateTime_ComparesTwoDates.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_ComparesTwoDates\obj\Debug\DateTime_ComparesTwoDates.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_ComparesTwoDates\obj\Debug\DateTime_ComparesTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_ComparesTwoDates\obj\Debug\DateTime_ComparesTwoDates.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_ComparesTwoDates\obj\Debug\DateTime_ComparesTwoDates.pdb

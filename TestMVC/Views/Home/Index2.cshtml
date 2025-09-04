@@ -1,0 +1,25 @@
+﻿@*@model IEnumerable<Product> *@
+
+@{
+    Layout = null;
+}
+@model List<string>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title></title>
+    </head>
+    <body>
+    <p>Features </p>
+    <br />
+        <ul>
+        @foreach (string item in Model)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</body>
+
+</html>

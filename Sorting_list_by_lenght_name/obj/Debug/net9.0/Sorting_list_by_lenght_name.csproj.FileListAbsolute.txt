@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\bin\Debug\net9.0\Sorting_list_by_lenght_name.exe
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\bin\Debug\net9.0\Sorting_list_by_lenght_name.deps.json
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\bin\Debug\net9.0\Sorting_list_by_lenght_name.runtimeconfig.json
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\bin\Debug\net9.0\Sorting_list_by_lenght_name.dll
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\bin\Debug\net9.0\Sorting_list_by_lenght_name.pdb
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\Sorting_list_by_lenght_name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\Sorting_list_by_lenght_name.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\Sorting_list_by_lenght_name.AssemblyInfo.cs
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\Sorting_list_by_lenght_name.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\Sorting_list_by_lenght_name.dll
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\refint\Sorting_list_by_lenght_name.dll
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\Sorting_list_by_lenght_name.pdb
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\Sorting_list_by_lenght_name.genruntimeconfig.cache
+C:\Users\info\Desktop\Sorting_list_by_lenght_name\obj\Debug\net9.0\ref\Sorting_list_by_lenght_name.dll

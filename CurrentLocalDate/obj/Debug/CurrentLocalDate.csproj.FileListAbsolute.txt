@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CurrentLocalDate\bin\Debug\CurrentLocalDate.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CurrentLocalDate\bin\Debug\CurrentLocalDate.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CurrentLocalDate\bin\Debug\CurrentLocalDate.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CurrentLocalDate\obj\Debug\CurrentLocalDate.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CurrentLocalDate\obj\Debug\CurrentLocalDate.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CurrentLocalDate\obj\Debug\CurrentLocalDate.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CurrentLocalDate\obj\Debug\CurrentLocalDate.pdb

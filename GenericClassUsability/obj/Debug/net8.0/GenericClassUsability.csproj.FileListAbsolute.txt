@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\bin\Debug\net8.0\GenericClassUsability.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\bin\Debug\net8.0\GenericClassUsability.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\bin\Debug\net8.0\GenericClassUsability.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\bin\Debug\net8.0\GenericClassUsability.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\bin\Debug\net8.0\GenericClassUsability.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\GenericClassUsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\GenericClassUsability.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\GenericClassUsability.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\GenericClassUsability.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\GenericClassUsability.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\GenericClassUsability.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\refint\GenericClassUsability.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\GenericClassUsability.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\GenericClassUsability.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GenericClassUsability\obj\Debug\net8.0\ref\GenericClassUsability.dll

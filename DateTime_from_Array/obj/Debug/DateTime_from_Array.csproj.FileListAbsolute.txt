@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_from_Array\bin\Debug\DateTime_from_Array.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_from_Array\bin\Debug\DateTime_from_Array.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_from_Array\bin\Debug\DateTime_from_Array.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_from_Array\obj\Debug\DateTime_from_Array.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_from_Array\obj\Debug\DateTime_from_Array.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_from_Array\obj\Debug\DateTime_from_Array.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_from_Array\obj\Debug\DateTime_from_Array.pdb

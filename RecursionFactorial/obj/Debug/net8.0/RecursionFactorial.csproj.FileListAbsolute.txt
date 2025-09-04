@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\bin\Debug\net8.0\RecursionFactorial.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\bin\Debug\net8.0\RecursionFactorial.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\bin\Debug\net8.0\RecursionFactorial.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\bin\Debug\net8.0\RecursionFactorial.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\bin\Debug\net8.0\RecursionFactorial.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\RecursionFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\RecursionFactorial.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\RecursionFactorial.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\RecursionFactorial.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\RecursionFactorial.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\RecursionFactorial.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\refint\RecursionFactorial.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\RecursionFactorial.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\RecursionFactorial.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\RecursionFactorial\obj\Debug\net8.0\ref\RecursionFactorial.dll

@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    Layout = null;
+}
+@model MCVProject.Models.PhoneBook 
+
+<a1> Page2</a1> 
+<br />
+<br />
+<label> Last Name: </label> @Model.LastName
+</br>
+<label> First Name: </label> @Model.FirstName
+</br>
+<label> Phone: </label> @Model.Phone
+</<br />
+<label>Your e-mail: </label> @Model.email
+</br>
+<label>Your address: </label> @Model.address
+<br />
+<label>User Name: </label> @Model.UserName
+<br />
+<label>You set Password: </label> @Model.Password
+<br />
+<br />
+
+
+
+<a href="@Url.Action("Page3", "Home")">EDIT PERSON</a>   @* passing to next page3  *@
+

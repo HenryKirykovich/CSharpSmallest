@@ -1,0 +1,5 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\app.publish\Thread2.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\app.publish\Thread2.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\app.publish\Thread2.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\app.publish\Thread2.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\app.publish\Thread2.pdb

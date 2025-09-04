@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\HW10Events\bin\Debug\HW10Events.exe.config
+C:\Users\info\Desktop\HW10Events\bin\Debug\HW10Events.exe
+C:\Users\info\Desktop\HW10Events\bin\Debug\HW10Events.pdb
+C:\Users\info\Desktop\HW10Events\obj\Debug\HW10Events.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\HW10Events\obj\Debug\HW10Events.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\HW10Events\obj\Debug\HW10Events.exe
+C:\Users\info\Desktop\HW10Events\obj\Debug\HW10Events.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW10Events\bin\Debug\HW10Events.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW10Events\bin\Debug\HW10Events.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW10Events\bin\Debug\HW10Events.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW10Events\obj\Debug\HW10Events.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW10Events\obj\Debug\HW10Events.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW10Events\obj\Debug\HW10Events.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW10Events\obj\Debug\HW10Events.pdb

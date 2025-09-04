@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\#CurrecntClockDataTime\bin\Debug\#CurrecntClockDataTime.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\#CurrecntClockDataTime\bin\Debug\#CurrecntClockDataTime.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\#CurrecntClockDataTime\bin\Debug\#CurrecntClockDataTime.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\#CurrecntClockDataTime\obj\Debug\#CurrecntClockDataTime.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\#CurrecntClockDataTime\obj\Debug\#CurrecntClockDataTime.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\#CurrecntClockDataTime\obj\Debug\#CurrecntClockDataTime.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\#CurrecntClockDataTime\obj\Debug\#CurrecntClockDataTime.pdb

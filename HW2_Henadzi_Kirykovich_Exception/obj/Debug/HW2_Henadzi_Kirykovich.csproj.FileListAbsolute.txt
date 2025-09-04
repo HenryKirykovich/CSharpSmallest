@@ -1,0 +1,13 @@
+C:\Users\info\Desktop\DEV110_C++\TRASH\HW2_Henadzi_Kirykovich\bin\Debug\HW2_Henadzi_Kirykovich.exe.config
+C:\Users\info\Desktop\DEV110_C++\TRASH\HW2_Henadzi_Kirykovich\bin\Debug\HW2_Henadzi_Kirykovich.exe
+C:\Users\info\Desktop\DEV110_C++\TRASH\HW2_Henadzi_Kirykovich\bin\Debug\HW2_Henadzi_Kirykovich.pdb
+C:\Users\info\Desktop\DEV110_C++\TRASH\HW2_Henadzi_Kirykovich\obj\Debug\HW2_Henadzi_Kirykovich.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\HW2_Henadzi_Kirykovich\obj\Debug\HW2_Henadzi_Kirykovich.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\HW2_Henadzi_Kirykovich\obj\Debug\HW2_Henadzi_Kirykovich.exe
+C:\Users\info\Desktop\DEV110_C++\TRASH\HW2_Henadzi_Kirykovich\obj\Debug\HW2_Henadzi_Kirykovich.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW2_Henadzi_Kirykovich\obj\Debug\HW2_Henadzi_Kirykovich.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW2_Henadzi_Kirykovich\obj\Debug\HW2_Henadzi_Kirykovich.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW2_Henadzi_Kirykovich\obj\Debug\HW2_Henadzi_Kirykovich.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW2_Henadzi_Kirykovich\obj\Debug\HW2_Henadzi_Kirykovich.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW2_Henadzi_Kirykovich_Exception\obj\Debug\HW2_Henadzi_Kirykovich.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW2_Henadzi_Kirykovich_Exception\obj\Debug\HW2_Henadzi_Kirykovich.csproj.CoreCompileInputs.cache

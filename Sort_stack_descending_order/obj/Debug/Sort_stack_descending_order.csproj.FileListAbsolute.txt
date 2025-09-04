@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Sort_stack_descending_order\bin\Debug\Sort_stack_descending_order.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Sort_stack_descending_order\bin\Debug\Sort_stack_descending_order.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Sort_stack_descending_order\bin\Debug\Sort_stack_descending_order.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Sort_stack_descending_order\obj\Debug\Sort_stack_descending_order.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Sort_stack_descending_order\obj\Debug\Sort_stack_descending_order.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Sort_stack_descending_order\obj\Debug\Sort_stack_descending_order.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Sort_stack_descending_order\obj\Debug\Sort_stack_descending_order.pdb

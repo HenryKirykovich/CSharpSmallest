@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\bin\Debug\net8.0\Example_Stack.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\bin\Debug\net8.0\Example_Stack.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\bin\Debug\net8.0\Example_Stack.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\bin\Debug\net8.0\Example_Stack.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\bin\Debug\net8.0\Example_Stack.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\Example_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\Example_Stack.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\Example_Stack.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\Example_Stack.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\Example_Stack.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\Example_Stack.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\refint\Example_Stack.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\Example_Stack.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\Example_Stack.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Stack\obj\Debug\net8.0\ref\Example_Stack.dll

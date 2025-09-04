@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\bin\Debug\net8.0\GeneratingRandomNumber(simple_task).exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\bin\Debug\net8.0\GeneratingRandomNumber(simple_task).deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\bin\Debug\net8.0\GeneratingRandomNumber(simple_task).runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\bin\Debug\net8.0\GeneratingRandomNumber(simple_task).dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\bin\Debug\net8.0\GeneratingRandomNumber(simple_task).pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\GeneratingRandomNumber(simple_task).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\GeneratingRandomNumber(simple_task).AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\GeneratingRandomNumber(simple_task).AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\GeneratingRandomNumber(simple_task).csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\GeneratingRandomNumber(simple_task).sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\GeneratingRandomNumber(simple_task).dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\refint\GeneratingRandomNumber(simple_task).dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\GeneratingRandomNumber(simple_task).pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\GeneratingRandomNumber(simple_task).genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\GeneratingRandomNumber(simple_task)\obj\Debug\net8.0\ref\GeneratingRandomNumber(simple_task).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Try_Catch_Outside_Range/1.0.0": {
+        "runtime": {
+          "Try_Catch_Outside_Range.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try_Catch_Outside_Range/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

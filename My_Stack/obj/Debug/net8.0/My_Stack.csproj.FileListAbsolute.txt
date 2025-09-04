@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\bin\Debug\net8.0\My_Stack.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\bin\Debug\net8.0\My_Stack.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\bin\Debug\net8.0\My_Stack.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\bin\Debug\net8.0\My_Stack.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\bin\Debug\net8.0\My_Stack.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\My_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\My_Stack.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\My_Stack.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\My_Stack.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\My_Stack.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\My_Stack.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\refint\My_Stack.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\My_Stack.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\My_Stack.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\My_Stack\obj\Debug\net8.0\ref\My_Stack.dll

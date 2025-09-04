@@ -1,0 +1,115 @@
+c:\users\kurt\documents\visual studio 2012\Projects\DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+c:\users\kurt\documents\visual studio 2012\Projects\DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+c:\users\kurt\documents\visual studio 2012\Projects\DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2012\Projects\DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+c:\users\kurt\documents\visual studio 2012\Projects\DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\DelegatesCompareNames - Copy\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\DelegatesCompareNames - Copy\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\DelegatesCompareNames - Copy\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\DelegatesCompareNames - Copy\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\DelegatesCompareNames - Copy\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Documents\Visual Studio 2012\Projects\DelegatesCompareNames - Copy\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\4DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\4DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\4DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 17-Nov-21-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod17-Delegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNames\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNames\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesV2\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesV2\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesV2\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelegatesCompareNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod18-ReveiwDelegates\3DelCompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2019\17-Delegates\Part 1\4-CompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2019\17-Delegates\Part 1\4-CompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2019\17-Delegates\Part 1\4-CompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2019\17-Delegates\Part 1\4-CompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2019\17-Delegates\Part 1\4-CompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2019\17-Delegates\Part 1\4-CompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2019\17-Delegates\Part 1\4-CompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\17-Delegates\Part 2\4-CompNamesSol\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\17-Delegates\Part 2\4-CompNamesSol\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\17-Delegates\Part 2\4-CompNamesSol\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\17-Delegates\Part 2\4-CompNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\17-Delegates\Part 2\4-CompNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\17-Delegates\Part 2\4-CompNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\17-Delegates\Part 2\4-CompNamesSol\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb_fix_HenadziKirykovich\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb_fix_HenadziKirykovich\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb_fix_HenadziKirykovich\DelegatesCompareNames\bin\Debug\DelegatesCompareNames.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb_fix_HenadziKirykovich\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb_fix_HenadziKirykovich\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb_fix_HenadziKirykovich\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW9\4-CompNamesProb_fix_HenadziKirykovich\DelegatesCompareNames\obj\Debug\DelegatesCompareNames.pdb

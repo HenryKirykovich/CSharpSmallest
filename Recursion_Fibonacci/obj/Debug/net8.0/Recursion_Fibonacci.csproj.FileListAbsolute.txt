@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\bin\Debug\net8.0\Recursion_Fibonacci.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\bin\Debug\net8.0\Recursion_Fibonacci.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\bin\Debug\net8.0\Recursion_Fibonacci.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\bin\Debug\net8.0\Recursion_Fibonacci.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\bin\Debug\net8.0\Recursion_Fibonacci.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\Recursion_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\Recursion_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\Recursion_Fibonacci.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\Recursion_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\Recursion_Fibonacci.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\Recursion_Fibonacci.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\refint\Recursion_Fibonacci.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\Recursion_Fibonacci.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\Recursion_Fibonacci.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recursion_Fibonacci\obj\Debug\net8.0\ref\Recursion_Fibonacci.dll

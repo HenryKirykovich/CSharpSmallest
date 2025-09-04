@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\MyTest\bin\Debug\MyTest.exe.config
+C:\Users\info\Desktop\MyTest\bin\Debug\MyTest.exe
+C:\Users\info\Desktop\MyTest\bin\Debug\MyTest.pdb
+C:\Users\info\Desktop\MyTest\obj\Debug\MyTest.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\MyTest\obj\Debug\MyTest.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\MyTest\obj\Debug\MyTest.exe
+C:\Users\info\Desktop\MyTest\obj\Debug\MyTest.pdb

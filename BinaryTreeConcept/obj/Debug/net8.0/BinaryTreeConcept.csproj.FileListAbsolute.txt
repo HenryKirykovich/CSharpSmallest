@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\bin\Debug\net8.0\BinaryTreeConcept.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\bin\Debug\net8.0\BinaryTreeConcept.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\bin\Debug\net8.0\BinaryTreeConcept.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\bin\Debug\net8.0\BinaryTreeConcept.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\bin\Debug\net8.0\BinaryTreeConcept.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\BinaryTreeConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\BinaryTreeConcept.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\BinaryTreeConcept.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\BinaryTreeConcept.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\BinaryTreeConcept.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\BinaryTreeConcept.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\refint\BinaryTreeConcept.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\BinaryTreeConcept.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\BinaryTreeConcept.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\BinaryTreeConcept\obj\Debug\net8.0\ref\BinaryTreeConcept.dll

@@ -1,0 +1,61 @@
+C:\Users\info\Desktop\TestMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\info\Desktop\TestMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\info\Desktop\TestMVC\bin\Debug\net8.0\TestMVC.staticwebassets.runtime.json
+C:\Users\info\Desktop\TestMVC\bin\Debug\net8.0\TestMVC.exe
+C:\Users\info\Desktop\TestMVC\bin\Debug\net8.0\TestMVC.deps.json
+C:\Users\info\Desktop\TestMVC\bin\Debug\net8.0\TestMVC.runtimeconfig.json
+C:\Users\info\Desktop\TestMVC\bin\Debug\net8.0\TestMVC.dll
+C:\Users\info\Desktop\TestMVC\bin\Debug\net8.0\TestMVC.pdb
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.AssemblyInfo.cs
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.RazorAssemblyInfo.cache
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.RazorAssemblyInfo.cs
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.TestMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.TestMVC.props
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestMVC.props
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestMVC.props
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\scopedcss\bundle\TestMVC.styles.css
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\scopedcss\projectbundle\TestMVC.bundle.scp.css
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.dll
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\refint\TestMVC.dll
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.pdb
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\TestMVC.genruntimeconfig.cache
+C:\Users\info\Desktop\TestMVC\obj\Debug\net8.0\ref\TestMVC.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\bin\Debug\net8.0\TestMVC.staticwebassets.runtime.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\bin\Debug\net8.0\TestMVC.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\bin\Debug\net8.0\TestMVC.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\bin\Debug\net8.0\TestMVC.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\bin\Debug\net8.0\TestMVC.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\bin\Debug\net8.0\TestMVC.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.RazorAssemblyInfo.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.RazorAssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.TestMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.TestMVC.props
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestMVC.props
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestMVC.props
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\scopedcss\bundle\TestMVC.styles.css
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\scopedcss\projectbundle\TestMVC.bundle.scp.css
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\refint\TestMVC.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\TestMVC.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\TestMVC\obj\Debug\net8.0\ref\TestMVC.dll

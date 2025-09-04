@@ -1,0 +1,21 @@
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\bin\Debug\net8.0\IDisplay-HW_HenadziKirykovich.exe
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\bin\Debug\net8.0\IDisplay-HW_HenadziKirykovich.deps.json
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\bin\Debug\net8.0\IDisplay-HW_HenadziKirykovich.runtimeconfig.json
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\bin\Debug\net8.0\IDisplay-HW_HenadziKirykovich.dll
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\bin\Debug\net8.0\IDisplay-HW_HenadziKirykovich.pdb
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.AssemblyInfo.cs
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.dll
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\refint\IDisplay-HW_HenadziKirykovich.dll
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.pdb
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.genruntimeconfig.cache
+C:\Users\info\Desktop\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\ref\IDisplay-HW_HenadziKirykovich.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW6 Interface\IDisplay-HW_HenadziKirykovich\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW6 Interface\IDisplay-HW_HenadziKirykovich\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW6 Interface\IDisplay-HW_HenadziKirykovich\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW6 Interface\IDisplay-HW_HenadziKirykovich\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW6 Interface\IDisplay-HW_HenadziKirykovich\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW6 Interface\IDisplay-HW_HenadziKirykovich\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\refint\IDisplay-HW_HenadziKirykovich.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW6 Interface\IDisplay-HW_HenadziKirykovich\IDisplay-HW_HenadziKirykovich\obj\Debug\net8.0\IDisplay-HW_HenadziKirykovich.pdb

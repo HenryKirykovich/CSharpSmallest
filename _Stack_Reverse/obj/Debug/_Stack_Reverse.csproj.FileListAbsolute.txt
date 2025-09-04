@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\_Stack_Reverse\bin\Debug\_Stack_Reverse.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\_Stack_Reverse\bin\Debug\_Stack_Reverse.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\_Stack_Reverse\bin\Debug\_Stack_Reverse.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\_Stack_Reverse\obj\Debug\_Stack_Reverse.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\_Stack_Reverse\obj\Debug\_Stack_Reverse.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\_Stack_Reverse\obj\Debug\_Stack_Reverse.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\_Stack_Reverse\obj\Debug\_Stack_Reverse.pdb

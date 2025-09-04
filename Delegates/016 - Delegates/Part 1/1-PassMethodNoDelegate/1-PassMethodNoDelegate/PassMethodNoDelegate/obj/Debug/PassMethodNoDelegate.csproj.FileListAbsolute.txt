@@ -1,0 +1,14 @@
+c:\users\kurt.friedrich\source\repos\PassMethodNoDelegate\PassMethodNoDelegate\bin\Debug\PassMethodNoDelegate.exe.config
+c:\users\kurt.friedrich\source\repos\PassMethodNoDelegate\PassMethodNoDelegate\bin\Debug\PassMethodNoDelegate.exe
+c:\users\kurt.friedrich\source\repos\PassMethodNoDelegate\PassMethodNoDelegate\bin\Debug\PassMethodNoDelegate.pdb
+c:\users\kurt.friedrich\source\repos\PassMethodNoDelegate\PassMethodNoDelegate\obj\Debug\PassMethodNoDelegate.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\source\repos\PassMethodNoDelegate\PassMethodNoDelegate\obj\Debug\PassMethodNoDelegate.csproj.CoreCompileInputs.cache
+c:\users\kurt.friedrich\source\repos\PassMethodNoDelegate\PassMethodNoDelegate\obj\Debug\PassMethodNoDelegate.exe
+c:\users\kurt.friedrich\source\repos\PassMethodNoDelegate\PassMethodNoDelegate\obj\Debug\PassMethodNoDelegate.pdb
+C:\Users\info\Desktop\Delegates\016 - Delegates\Part 1\1-PassMethodNoDelegate\1-PassMethodNoDelegate\PassMethodNoDelegate\bin\Debug\PassMethodNoDelegate.exe.config
+C:\Users\info\Desktop\Delegates\016 - Delegates\Part 1\1-PassMethodNoDelegate\1-PassMethodNoDelegate\PassMethodNoDelegate\bin\Debug\PassMethodNoDelegate.exe
+C:\Users\info\Desktop\Delegates\016 - Delegates\Part 1\1-PassMethodNoDelegate\1-PassMethodNoDelegate\PassMethodNoDelegate\bin\Debug\PassMethodNoDelegate.pdb
+C:\Users\info\Desktop\Delegates\016 - Delegates\Part 1\1-PassMethodNoDelegate\1-PassMethodNoDelegate\PassMethodNoDelegate\obj\Debug\PassMethodNoDelegate.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\Delegates\016 - Delegates\Part 1\1-PassMethodNoDelegate\1-PassMethodNoDelegate\PassMethodNoDelegate\obj\Debug\PassMethodNoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\Delegates\016 - Delegates\Part 1\1-PassMethodNoDelegate\1-PassMethodNoDelegate\PassMethodNoDelegate\obj\Debug\PassMethodNoDelegate.exe
+C:\Users\info\Desktop\Delegates\016 - Delegates\Part 1\1-PassMethodNoDelegate\1-PassMethodNoDelegate\PassMethodNoDelegate\obj\Debug\PassMethodNoDelegate.pdb

@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\bin\Release\net8.0\System_Threading.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\bin\Release\net8.0\System_Threading.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\bin\Release\net8.0\System_Threading.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\bin\Release\net8.0\System_Threading.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\bin\Release\net8.0\System_Threading.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\System_Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\System_Threading.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\System_Threading.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\System_Threading.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\System_Threading.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\System_Threading.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\refint\System_Threading.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\System_Threading.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\System_Threading.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\System_Threading\obj\Release\net8.0\ref\System_Threading.dll

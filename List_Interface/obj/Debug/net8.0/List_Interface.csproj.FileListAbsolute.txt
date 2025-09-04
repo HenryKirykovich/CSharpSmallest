@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\List_Interface\bin\Debug\net8.0\List_Interface.exe
+C:\Users\info\Desktop\List_Interface\bin\Debug\net8.0\List_Interface.deps.json
+C:\Users\info\Desktop\List_Interface\bin\Debug\net8.0\List_Interface.runtimeconfig.json
+C:\Users\info\Desktop\List_Interface\bin\Debug\net8.0\List_Interface.dll
+C:\Users\info\Desktop\List_Interface\bin\Debug\net8.0\List_Interface.pdb
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\List_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\List_Interface.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\List_Interface.AssemblyInfo.cs
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\List_Interface.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\List_Interface.dll
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\refint\List_Interface.dll
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\List_Interface.pdb
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\List_Interface.genruntimeconfig.cache
+C:\Users\info\Desktop\List_Interface\obj\Debug\net8.0\ref\List_Interface.dll

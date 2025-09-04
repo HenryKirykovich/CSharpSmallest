@@ -1,0 +1,56 @@
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.exe
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.deps.json
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.runtimeconfig.json
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.runtimeconfig.dev.json
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.pdb
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\BusTierLibary.pdb
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.csproj.CopyComplete
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.pdb
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.genruntimeconfig.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.exe
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.deps.json
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.runtimeconfig.json
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.runtimeconfig.dev.json
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\BusTierLibary.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.AssemblyInfo.cs
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFak.445D7DE5.Up2Date
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.runtimeconfig.dev.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\3TierFakeDB-CORE.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\BusTierLibary.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFak.445D7DE5.Up2Date
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\3TierFakeDB-CORE\obj\Debug\netcoreapp3.1\3TierFakeDB-CORE.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\bin\Debug\net8.0\Generater_all_possible_permutations.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\bin\Debug\net8.0\Generater_all_possible_permutations.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\bin\Debug\net8.0\Generater_all_possible_permutations.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\bin\Debug\net8.0\Generater_all_possible_permutations.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\bin\Debug\net8.0\Generater_all_possible_permutations.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\Generater_all_possible_permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\Generater_all_possible_permutations.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\Generater_all_possible_permutations.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\Generater_all_possible_permutations.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\Generater_all_possible_permutations.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\Generater_all_possible_permutations.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\refint\Generater_all_possible_permutations.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\Generater_all_possible_permutations.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\Generater_all_possible_permutations.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Generater_all_possible_permutations\obj\Debug\net8.0\ref\Generater_all_possible_permutations.dll

@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\ConsoleApp1\obj\Debug\DateTimeFuturePast.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\ConsoleApp1\obj\Debug\DateTimeFuturePast.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

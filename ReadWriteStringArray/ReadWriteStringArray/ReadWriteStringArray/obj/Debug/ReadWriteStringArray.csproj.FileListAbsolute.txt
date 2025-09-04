@@ -1,0 +1,99 @@
+c:\users\kurt\documents\visual studio 2012\Projects\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+c:\users\kurt\documents\visual studio 2012\Projects\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2012\Projects\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+c:\users\kurt\documents\visual studio 2012\Projects\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+c:\users\kurt\documents\visual studio 2012\Projects\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+c:\users\kurt\documents\visual studio 2012\Projects\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 05 - oct 10\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 05 - oct 10\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt\Google Drive\BellevueCollege\Prog120_OO\Modules\Module 05 - oct 10\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Spring-2014\Mod05 static class\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-FALL2014\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\AAA-Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\Prog120-Winter2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A2AA-Prog120-winter-2015\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-FALL-2016\Prog-120fal16\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Winter2017\Prog-120-Winter2017\Mod05xxx 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Win-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Fall-18\Mod05 3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2021\05-3 tier-MVC\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\info\Desktop\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\info\Desktop\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\info\Desktop\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\info\Desktop\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\info\Desktop\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\bin\Debug\ReadWriteStringArray.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\ReadWriteStringArray\ReadWriteStringArray\ReadWriteStringArray\obj\Debug\ReadWriteStringArray.pdb

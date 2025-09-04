@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\bin\Debug\net8.0\List_Phonebook_IComparable_IEquatable.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\bin\Debug\net8.0\List_Phonebook_IComparable_IEquatable.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\bin\Debug\net8.0\List_Phonebook_IComparable_IEquatable.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\bin\Debug\net8.0\List_Phonebook_IComparable_IEquatable.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\bin\Debug\net8.0\List_Phonebook_IComparable_IEquatable.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\List_Phonebook_IComparable_IEquatable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\List_Phonebook_IComparable_IEquatable.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\List_Phonebook_IComparable_IEquatable.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\List_Phonebook_IComparable_IEquatable.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\List_Phonebook_IComparable_IEquatable.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\List_Phonebook_IComparable_IEquatable.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\refint\List_Phonebook_IComparable_IEquatable.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\List_Phonebook_IComparable_IEquatable.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\List_Phonebook_IComparable_IEquatable.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\List_Phonebook_IComparable_IEquatable\obj\Debug\net8.0\ref\List_Phonebook_IComparable_IEquatable.dll

@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Ext_Stack_Remove_element_incondition\bin\Debug\Ext_Stack_Remove_element_incondition.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Ext_Stack_Remove_element_incondition\bin\Debug\Ext_Stack_Remove_element_incondition.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Ext_Stack_Remove_element_incondition\bin\Debug\Ext_Stack_Remove_element_incondition.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Ext_Stack_Remove_element_incondition\obj\Debug\Ext_Stack_Remove_element_incondition.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Ext_Stack_Remove_element_incondition\obj\Debug\Ext_Stack_Remove_element_incondition.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Ext_Stack_Remove_element_incondition\obj\Debug\Ext_Stack_Remove_element_incondition.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Ext_Stack_Remove_element_incondition\obj\Debug\Ext_Stack_Remove_element_incondition.pdb

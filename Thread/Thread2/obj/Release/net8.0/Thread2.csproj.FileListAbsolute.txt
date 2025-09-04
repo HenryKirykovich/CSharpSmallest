@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\Thread2.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\Thread2.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\Thread2.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\Thread2.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\Thread2.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\Thread2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\Thread2.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\Thread2.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\Thread2.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\Thread2.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\Thread2.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\refint\Thread2.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\Thread2.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\Thread2.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\obj\Release\net8.0\ref\Thread2.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "3TierFakeDB-CORE/1.0.0": {
+        "dependencies": {
+          "BusTierLibary": "1.0.0"
+        },
+        "runtime": {
+          "3TierFakeDB-CORE.dll": {}
+        }
+      },
+      "BusTierLibary/1.0.0": {
+        "dependencies": {
+          "DataModelClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BusTierLibary.dll": {}
+        }
+      },
+      "DataModelClassLibrary/1.0.0": {
+        "runtime": {
+          "DataModelClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3TierFakeDB-CORE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusTierLibary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataModelClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+Indexer homework. 
+First examine the program 5-StingIntIndexer to see how to use an indexer with Two indexes. 
+Start a Visual Studio project. You are to code a class, MathFunctions,  that has an indexer that has 2 indexes, an int and a string.
+The indexer returns a float.  Here is the Program.cs code you should use which will make use of the MathFunctions class you will write.
+static void Main(string[] args)
+{
+    MathFunctions myMathObject = new MathFunctions();
+ 
+    Console.WriteLine("enter an integer between 0 and 25");
+    int inputValue = Convert.ToInt32(Console.ReadLine());
+    if (inputValue < 26)  // greater than 26 will blow up in factorial
+    {
+        Console.WriteLine();
+        Console.Write("the square is: ");
+        Console.WriteLine(myMathObject[inputValue, "Square"]);
+ 
+        Console.WriteLine();
+        Console.Write("the cube is: ");
+        Console.WriteLine(myMathObject[inputValue, "Cube"]);
+ 
+        Console.WriteLine();
+        Console.Write("the factorial is: ");
+        Console.WriteLine(myMathObject[inputValue, "Factorial"]);
+    }
+    else
+    {
+        Console.WriteLine("too big");
+    }
+ 
+           
+    Console.WriteLine();
+    Console.WriteLine("end of program");
+    Console.ReadLine();
+}
+
+As you can infer, your indexer should expect to get 2 values, an integer between 0 and 25, and a string which will be one of Square, Cube, or Factorial. (You do not have to test for bad input.)
+Based on which math function they specify, your code should perform that operation on the integer, and return that value as a float.  
+How do you calculate a Factorial?  You “Bing” it!
+https://www.csharpstar.com/csharp-program-to-calculate-factorial/#:~:text=%20In%20this%20article%2C%20we%20will%20discuss%20different,number...%207%203.%20Using%20While%20loop%3A%20More%20
+
+Here is a screen shot of my program running. For my test run I used a 9.  You should test with a 9 and make sure you get the same results.
+

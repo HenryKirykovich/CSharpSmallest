@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\bin\Debug\net8.0\Example_Nested_Property.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\bin\Debug\net8.0\Example_Nested_Property.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\bin\Debug\net8.0\Example_Nested_Property.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\bin\Debug\net8.0\Example_Nested_Property.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\bin\Debug\net8.0\Example_Nested_Property.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\Example_Nested_Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\Example_Nested_Property.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\Example_Nested_Property.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\Example_Nested_Property.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\Example_Nested_Property.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\Example_Nested_Property.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\refint\Example_Nested_Property.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\Example_Nested_Property.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\Example_Nested_Property.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Example_Nested_Property\obj\Debug\net8.0\ref\Example_Nested_Property.dll

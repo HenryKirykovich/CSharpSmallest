@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda9\bin\Debug\Lambda9.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda9\bin\Debug\Lambda9.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda9\bin\Debug\Lambda9.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda9\obj\Debug\Lambda_9.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda9\obj\Debug\Lambda_9.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda9\obj\Debug\Lambda9.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda9\obj\Debug\Lambda9.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_9\bin\Debug\Lambda9.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_9\bin\Debug\Lambda9.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_9\bin\Debug\Lambda9.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_9\obj\Debug\Lambda_9.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_9\obj\Debug\Lambda_9.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_9\obj\Debug\Lambda9.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_9\obj\Debug\Lambda9.pdb

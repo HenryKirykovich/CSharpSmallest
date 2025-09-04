@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Power_Number", "Calc_Power_Number\Calc_Power_Number.csproj", "{89B76BC1-57D7-4553-8967-D4519C7ABA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B76BC1-57D7-4553-8967-D4519C7ABA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B76BC1-57D7-4553-8967-D4519C7ABA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B76BC1-57D7-4553-8967-D4519C7ABA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B76BC1-57D7-4553-8967-D4519C7ABA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9812DCF6-ACBA-4CDC-A3AE-0AB946935728}
+	EndGlobalSection
+EndGlobal

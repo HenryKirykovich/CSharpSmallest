@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\Binary_Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\Binary_Trees.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\Binary_Trees.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\Binary_Trees.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\Binary_Trees.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\bin\Debug\net8.0\Binary_Trees.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\bin\Debug\net8.0\Binary_Trees.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\bin\Debug\net8.0\Binary_Trees.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\bin\Debug\net8.0\Binary_Trees.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\bin\Debug\net8.0\Binary_Trees.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\Binary_Trees.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\refint\Binary_Trees.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\Binary_Trees.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\Binary_Trees.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Binary_Trees\obj\Debug\net8.0\ref\Binary_Trees.dll

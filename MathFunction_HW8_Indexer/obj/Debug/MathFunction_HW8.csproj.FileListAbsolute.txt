@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\MathFunction_HW8\obj\Debug\MathFunction_HW8.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\MathFunction_HW8\obj\Debug\MathFunction_HW8.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\MathFunction_HW8\bin\Debug\MathFunction_HW8.exe.config
+C:\Users\info\Desktop\MathFunction_HW8\bin\Debug\MathFunction_HW8.exe
+C:\Users\info\Desktop\MathFunction_HW8\bin\Debug\MathFunction_HW8.pdb
+C:\Users\info\Desktop\MathFunction_HW8\obj\Debug\MathFunction_HW8.exe
+C:\Users\info\Desktop\MathFunction_HW8\obj\Debug\MathFunction_HW8.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\MathFunction_HW8_Indexer\bin\Debug\MathFunction_HW8.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\MathFunction_HW8_Indexer\bin\Debug\MathFunction_HW8.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\MathFunction_HW8_Indexer\bin\Debug\MathFunction_HW8.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\MathFunction_HW8_Indexer\obj\Debug\MathFunction_HW8.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\MathFunction_HW8_Indexer\obj\Debug\MathFunction_HW8.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\MathFunction_HW8_Indexer\obj\Debug\MathFunction_HW8.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\MathFunction_HW8_Indexer\obj\Debug\MathFunction_HW8.pdb

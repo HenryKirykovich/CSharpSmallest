@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\bin\Debug\net6.0\ArrayLoopHW.exe
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\bin\Debug\net6.0\ArrayLoopHW.deps.json
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\bin\Debug\net6.0\ArrayLoopHW.runtimeconfig.json
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\bin\Debug\net6.0\ArrayLoopHW.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\bin\Debug\net6.0\ArrayLoopHW.pdb
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\ArrayLoopHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\ArrayLoopHW.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\ArrayLoopHW.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\ArrayLoopHW.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\ArrayLoopHW.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\refint\ArrayLoopHW.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\ArrayLoopHW.pdb
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\ArrayLoopHW.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\ArrayLoopHW\obj\Debug\net6.0\ref\ArrayLoopHW.dll

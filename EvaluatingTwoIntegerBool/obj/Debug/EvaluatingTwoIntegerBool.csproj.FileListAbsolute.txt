@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\EvaluatingTwoIntegerBool\bin\Debug\EvaluatingTwoIntegerBool.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\EvaluatingTwoIntegerBool\bin\Debug\EvaluatingTwoIntegerBool.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\EvaluatingTwoIntegerBool\bin\Debug\EvaluatingTwoIntegerBool.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\EvaluatingTwoIntegerBool\obj\Debug\EvaluatingTwoIntegerBool.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\EvaluatingTwoIntegerBool\obj\Debug\EvaluatingTwoIntegerBool.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\EvaluatingTwoIntegerBool\obj\Debug\EvaluatingTwoIntegerBool.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\EvaluatingTwoIntegerBool\obj\Debug\EvaluatingTwoIntegerBool.pdb

@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\Try_Catch_Outside_Range\bin\Debug\net8.0\Try_Catch_Outside_Range.exe
+C:\Users\info\Desktop\Try_Catch_Outside_Range\bin\Debug\net8.0\Try_Catch_Outside_Range.deps.json
+C:\Users\info\Desktop\Try_Catch_Outside_Range\bin\Debug\net8.0\Try_Catch_Outside_Range.runtimeconfig.json
+C:\Users\info\Desktop\Try_Catch_Outside_Range\bin\Debug\net8.0\Try_Catch_Outside_Range.dll
+C:\Users\info\Desktop\Try_Catch_Outside_Range\bin\Debug\net8.0\Try_Catch_Outside_Range.pdb
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\Try_Catch_Outside_Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\Try_Catch_Outside_Range.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\Try_Catch_Outside_Range.AssemblyInfo.cs
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\Try_Catch_Outside_Range.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\Try_Catch_Outside_Range.dll
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\refint\Try_Catch_Outside_Range.dll
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\Try_Catch_Outside_Range.pdb
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\Try_Catch_Outside_Range.genruntimeconfig.cache
+C:\Users\info\Desktop\Try_Catch_Outside_Range\obj\Debug\net8.0\ref\Try_Catch_Outside_Range.dll

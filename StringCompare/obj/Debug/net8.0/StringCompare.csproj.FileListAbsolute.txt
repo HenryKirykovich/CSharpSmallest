@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\bin\Debug\net8.0\StringCompare.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\bin\Debug\net8.0\StringCompare.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\bin\Debug\net8.0\StringCompare.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\bin\Debug\net8.0\StringCompare.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\bin\Debug\net8.0\StringCompare.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\StringCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\StringCompare.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\StringCompare.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\StringCompare.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\StringCompare.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\StringCompare.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\refint\StringCompare.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\StringCompare.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\StringCompare.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\StringCompare\obj\Debug\net8.0\ref\StringCompare.dll

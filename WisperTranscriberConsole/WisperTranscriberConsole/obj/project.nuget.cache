@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXvy00amNGs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\info\\Desktop\\DEV 120 Object Oriententing Programming DEV120\\HomeWork\\WisperTranscriberConsole\\WisperTranscriberConsole\\WisperTranscriberConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\info\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\info\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\info\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\info\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\info\\.nuget\\packages\\xceed.document.net\\1.7.20076.14010\\xceed.document.net.1.7.20076.14010.nupkg.sha512",
+    "C:\\Users\\info\\.nuget\\packages\\xceed.pdf\\1.7.20076.14010\\xceed.pdf.1.7.20076.14010.nupkg.sha512",
+    "C:\\Users\\info\\.nuget\\packages\\xceed.words.net\\1.7.20076.14010\\xceed.words.net.1.7.20076.14010.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "WisperTranscriberConsole depends on Xceed.Words.NET (>= 1.7.0) but Xceed.Words.NET 1.7.0 was not found. Xceed.Words.NET 1.7.20076.14010 was resolved instead.",
+      "libraryId": "Xceed.Words.NET",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

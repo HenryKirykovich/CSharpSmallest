@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\GroseryList\bin\Debug\net8.0\GroseryList.exe
+C:\Users\info\Desktop\GroseryList\bin\Debug\net8.0\GroseryList.deps.json
+C:\Users\info\Desktop\GroseryList\bin\Debug\net8.0\GroseryList.runtimeconfig.json
+C:\Users\info\Desktop\GroseryList\bin\Debug\net8.0\GroseryList.dll
+C:\Users\info\Desktop\GroseryList\bin\Debug\net8.0\GroseryList.pdb
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\GroseryList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\GroseryList.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\GroseryList.AssemblyInfo.cs
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\GroseryList.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\GroseryList.dll
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\refint\GroseryList.dll
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\GroseryList.pdb
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\GroseryList.genruntimeconfig.cache
+C:\Users\info\Desktop\GroseryList\obj\Debug\net8.0\ref\GroseryList.dll

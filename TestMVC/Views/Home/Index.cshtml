@@ -1,0 +1,37 @@
+﻿@model IEnumerable<TestMVC.Models.Product>
+
+@* @model string[]  *@  // for deploying string[] 
+@{
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Features</title>
+        
+    </head>
+    <body>
+    <p>Features </p>
+    <br />
+        <ul>
+            @foreach (Product s in Model)   // called data from Controller and then iterating those 
+            {
+                <li>@s?.Name - @s?.Price - @s?.Related</li>       // @ you should set this sign because you work .cshtml file 
+            }
+
+            @* {
+                <br/>@string.Format(x); // dif approach to iteration data
+            } *@
+    </ul>
+    <br/>
+
+    <a href="@Url.Action("index2", "Home")">Page 2</a>
+
+    
+</body>
+
+</html>

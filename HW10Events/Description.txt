@@ -1,0 +1,20 @@
+Events Homework
+Goal is to write a Class that defines an Event object, and then fires that event repeatedly. Then write 3 different Classes that have a compliant method that they each register that Event object, so that when the event fires, each of the 3 class’s registered methods are run.
+
+
+=======================================
+
+[1] Write a class that defines an event object, including the delegate method signature required by that event. You might want to define and use a special object for the first of the 2 parameters in that signature if you want to pass information from the event into the method that is going to be run. The delegate variable required can be defined inside this class, or outside of the class so that all 4 classes can reference it directly.
+
+  public delegate void OurEventDelegate(SpecialClass someName, EventArgs e);
+
+[2] Give that Class a Start method, which when called, will cause this Class to start firing the event.  I suggest the code should count from 1 to 77, pausing 2 seconds in each loop. When the count is evenly divisible by 7, it should fire the event.  (See our prior examples for how to code this.)
+
+[3] Now write 3 “listener” classes.  Each one should include a method that it wants run when the event fires.  Each one should contain a method that can be called to tell this class to register its unique event method with the event. What your 3 methods do is up to you, be creative.  I could suggest one might:
+ - beep the console
+ - change the console text color to one of 3 randomly selected colors
+ - write out a message to the console containing the current time of this event.
+
+[4] Now write the code in your Program.Main method that instantiates an object from your event generator class and then instantiate the 3 listener objects.  Then have Main call the 3 listener’s method that register for the event, then call the method in the event generator object to start the events happening.
+
+

@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_2\bin\Release\Lambda_2.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_2\bin\Release\Lambda_2.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_2\bin\Release\Lambda_2.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_2\obj\Release\Lambda_2.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_2\obj\Release\Lambda_2.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_2\obj\Release\Lambda_2.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_2\obj\Release\Lambda_2.pdb

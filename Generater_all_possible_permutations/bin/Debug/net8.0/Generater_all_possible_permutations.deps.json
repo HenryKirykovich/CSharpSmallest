@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Generater_all_possible_permutations/1.0.0": {
+        "runtime": {
+          "Generater_all_possible_permutations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generater_all_possible_permutations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

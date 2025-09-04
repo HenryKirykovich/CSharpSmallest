@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\bin\Debug\net8.0\Linked_List_v_1.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\bin\Debug\net8.0\Linked_List_v_1.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\bin\Debug\net8.0\Linked_List_v_1.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\bin\Debug\net8.0\Linked_List_v_1.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\bin\Debug\net8.0\Linked_List_v_1.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\Linked_List_v_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\Linked_List_v_1.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\Linked_List_v_1.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\Linked_List_v_1.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\Linked_List_v_1.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\Linked_List_v_1.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\refint\Linked_List_v_1.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\Linked_List_v_1.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\Linked_List_v_1.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Linked_List_v_1\obj\Debug\net8.0\ref\Linked_List_v_1.dll

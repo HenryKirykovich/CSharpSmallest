@@ -1,0 +1,2 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\win-x64\publish\Thread2.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Thread\Thread2\bin\Release\net8.0\win-x64\publish\Thread2.exe

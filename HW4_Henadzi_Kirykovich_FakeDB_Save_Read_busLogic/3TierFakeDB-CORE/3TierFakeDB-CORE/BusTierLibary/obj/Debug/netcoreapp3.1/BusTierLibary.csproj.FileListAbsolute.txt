@@ -1,0 +1,38 @@
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.deps.json
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.pdb
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.csproj.CopyComplete
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.deps.json
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.AssemblyInfo.cs
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierL.D4CCF694.Up2Date
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\BusTierLibary.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierL.D4CCF694.Up2Date
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\BusTierLibary\obj\Debug\netcoreapp3.1\BusTierLibary.pdb

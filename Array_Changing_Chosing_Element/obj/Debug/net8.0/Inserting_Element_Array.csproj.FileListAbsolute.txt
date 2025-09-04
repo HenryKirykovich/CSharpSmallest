@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\bin\Debug\net8.0\Inserting_Element_Array.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\bin\Debug\net8.0\Inserting_Element_Array.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\bin\Debug\net8.0\Inserting_Element_Array.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\bin\Debug\net8.0\Inserting_Element_Array.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\bin\Debug\net8.0\Inserting_Element_Array.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\Inserting_Element_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\Inserting_Element_Array.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\Inserting_Element_Array.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\Inserting_Element_Array.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\Inserting_Element_Array.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\Inserting_Element_Array.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\refint\Inserting_Element_Array.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\Inserting_Element_Array.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\Inserting_Element_Array.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Array_Changing_Chosing_Element\obj\Debug\net8.0\ref\Inserting_Element_Array.dll

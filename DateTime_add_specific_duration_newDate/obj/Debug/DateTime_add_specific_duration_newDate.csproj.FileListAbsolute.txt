@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_add_specific_duration_newDate\bin\Debug\DateTime_add_specific_duration_newDate.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_add_specific_duration_newDate\bin\Debug\DateTime_add_specific_duration_newDate.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_add_specific_duration_newDate\bin\Debug\DateTime_add_specific_duration_newDate.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_add_specific_duration_newDate\obj\Debug\DateTime_add_specific_duration_newDate.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_add_specific_duration_newDate\obj\Debug\DateTime_add_specific_duration_newDate.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_add_specific_duration_newDate\obj\Debug\DateTime_add_specific_duration_newDate.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DateTime_add_specific_duration_newDate\obj\Debug\DateTime_add_specific_duration_newDate.pdb

@@ -1,0 +1,27 @@
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.deps.json
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Downloads\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.deps.json
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.AssemblyInfo.cs
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\info\Desktop\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\bin\Debug\netcoreapp3.1\DataModelClassLibrary.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW4_Henadzi_Kirykovich\3TierFakeDB-CORE\3TierFakeDB-CORE\DataModelClassLibrary\obj\Debug\netcoreapp3.1\DataModelClassLibrary.pdb

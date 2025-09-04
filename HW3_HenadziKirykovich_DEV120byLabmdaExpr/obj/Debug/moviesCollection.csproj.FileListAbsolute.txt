@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\HW3_HenadziKirykovich_DEV120\moviesCllection\bin\Debug\moviesCllection.exe.config
+C:\Users\info\Desktop\HW3_HenadziKirykovich_DEV120\moviesCllection\bin\Debug\moviesCllection.exe
+C:\Users\info\Desktop\HW3_HenadziKirykovich_DEV120\moviesCllection\bin\Debug\moviesCllection.pdb
+C:\Users\info\Desktop\HW3_HenadziKirykovich_DEV120\moviesCllection\obj\Debug\moviesCollection.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\HW3_HenadziKirykovich_DEV120\moviesCllection\obj\Debug\moviesCollection.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\HW3_HenadziKirykovich_DEV120\moviesCllection\obj\Debug\moviesCllection.exe
+C:\Users\info\Desktop\HW3_HenadziKirykovich_DEV120\moviesCllection\obj\Debug\moviesCllection.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW3_HenadziKirykovich_DEV120byLabmdaExpr\moviesCllection\bin\Debug\moviesCllection.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW3_HenadziKirykovich_DEV120byLabmdaExpr\moviesCllection\bin\Debug\moviesCllection.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW3_HenadziKirykovich_DEV120byLabmdaExpr\moviesCllection\bin\Debug\moviesCllection.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW3_HenadziKirykovich_DEV120byLabmdaExpr\moviesCllection\obj\Debug\moviesCollection.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW3_HenadziKirykovich_DEV120byLabmdaExpr\moviesCllection\obj\Debug\moviesCollection.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW3_HenadziKirykovich_DEV120byLabmdaExpr\moviesCllection\obj\Debug\moviesCllection.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW3_HenadziKirykovich_DEV120byLabmdaExpr\moviesCllection\obj\Debug\moviesCllection.pdb

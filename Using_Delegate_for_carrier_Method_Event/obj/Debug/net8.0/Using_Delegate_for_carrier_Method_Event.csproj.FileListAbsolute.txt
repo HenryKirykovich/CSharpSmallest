@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\bin\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\bin\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\bin\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\bin\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\bin\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\refint\Using_Delegate_for_carrier_Method_Event.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\Using_Delegate_for_carrier_Method_Event.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Using_Delegate_for_carrier_Method_Event\obj\Debug\net8.0\ref\Using_Delegate_for_carrier_Method_Event.dll

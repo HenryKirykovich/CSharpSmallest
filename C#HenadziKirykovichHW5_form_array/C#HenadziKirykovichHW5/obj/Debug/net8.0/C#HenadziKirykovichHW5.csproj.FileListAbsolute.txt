@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\bin\Debug\net8.0\C#HenadziKirykovichHW5.exe
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\bin\Debug\net8.0\C#HenadziKirykovichHW5.deps.json
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\bin\Debug\net8.0\C#HenadziKirykovichHW5.runtimeconfig.json
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\bin\Debug\net8.0\C#HenadziKirykovichHW5.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\bin\Debug\net8.0\C#HenadziKirykovichHW5.pdb
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\C#HenadziKirykovichHW5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\C#HenadziKirykovichHW5.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\C#HenadziKirykovichHW5.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\C#HenadziKirykovichHW5.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\C#HenadziKirykovichHW5.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\refint\C#HenadziKirykovichHW5.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\C#HenadziKirykovichHW5.pdb
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\C#HenadziKirykovichHW5.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#HenadziKirykovichHW5\obj\Debug\net8.0\ref\C#HenadziKirykovichHW5.dll

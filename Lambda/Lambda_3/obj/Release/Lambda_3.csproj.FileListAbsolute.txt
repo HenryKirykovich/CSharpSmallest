@@ -1,0 +1,2 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_3\obj\Release\Lambda_3.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Lambda\Lambda_3\obj\Release\Lambda_3.csproj.CoreCompileInputs.cache

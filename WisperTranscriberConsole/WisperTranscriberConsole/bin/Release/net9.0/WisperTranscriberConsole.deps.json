@@ -1,0 +1,164 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WisperTranscriberConsole/1.0.0": {
+        "dependencies": {
+          "Xceed.Words.NET": "1.7.20076.14010"
+        },
+        "runtime": {
+          "WisperTranscriberConsole.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "Microsoft.Win32.SystemEvents/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0",
+          "Microsoft.Win32.SystemEvents": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.IO.Packaging/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Packaging.dll": {
+            "assemblyVersion": "4.0.3.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xceed.Document.NET/1.7.20076.14010": {
+        "dependencies": {
+          "System.IO.Packaging": "4.5.0",
+          "Xceed.Pdf": "1.7.20076.14010"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xceed.Document.NETStandard.dll": {
+            "assemblyVersion": "1.7.20076.14010",
+            "fileVersion": "1.7.20076.14010"
+          }
+        }
+      },
+      "Xceed.Pdf/1.7.20076.14010": {
+        "dependencies": {
+          "System.Drawing.Common": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xceed.PDF.NETStandard.dll": {
+            "assemblyVersion": "1.7.20076.14010",
+            "fileVersion": "1.7.20076.14010"
+          }
+        }
+      },
+      "Xceed.Words.NET/1.7.20076.14010": {
+        "dependencies": {
+          "Xceed.Document.NET": "1.7.20076.14010",
+          "Xceed.Pdf": "1.7.20076.14010"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xceed.Words.NETStandard.dll": {
+            "assemblyVersion": "1.7.20076.14010",
+            "fileVersion": "1.7.20076.14010"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WisperTranscriberConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LuI1oG+24TUj1ZRQQjM5Ew73BKnZE5NZ/7eAdh1o8ST5dPhUnJvIkiIn2re3MwnkRy6ELRnvEbBxHP8uALKhJw==",
+      "path": "microsoft.win32.systemevents/4.5.0",
+      "hashPath": "microsoft.win32.systemevents.4.5.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AiJFxxVPdeITstiRS5aAu8+8Dpf5NawTMoapZ53Gfirml24p7HIfhjmCRxdXnmmf3IUA3AX3CcW7G73CjWxW/Q==",
+      "path": "system.drawing.common/4.5.0",
+      "hashPath": "system.drawing.common.4.5.0.nupkg.sha512"
+    },
+    "System.IO.Packaging/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OjtW5pGp1E7KE3ontBrzy+nSFJCM6pcbVDdo3gg4DauTfdtZKdeKvMVlADF4fSY+OfXWUp4qCvOSxIltt37LbA==",
+      "path": "system.io.packaging/4.5.0",
+      "hashPath": "system.io.packaging.4.5.0.nupkg.sha512"
+    },
+    "Xceed.Document.NET/1.7.20076.14010": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XbQMxqEcMvRp9b7VcUvEa2b8A86h6J+ZilNEgc2tGRtBVNhgdi6n/rC7gXw89rN67VBnIsa5v1smqk6TJf4gSQ==",
+      "path": "xceed.document.net/1.7.20076.14010",
+      "hashPath": "xceed.document.net.1.7.20076.14010.nupkg.sha512"
+    },
+    "Xceed.Pdf/1.7.20076.14010": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i3W5EennxCf/rM2QVZdDbqf7JBZQNAxD+DBfMp8UpHsa2Neejm8SgVbeUjgNQ3mP3lP3f2psQwKOHkfFbZXRRQ==",
+      "path": "xceed.pdf/1.7.20076.14010",
+      "hashPath": "xceed.pdf.1.7.20076.14010.nupkg.sha512"
+    },
+    "Xceed.Words.NET/1.7.20076.14010": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cK3uivu08x2nOliinpCfT3ru5zp3L8J0TWLDge1TcKgdSZEsyoLkeBeEBQ+l0051zPVmBelVYxrvNYWfRZaetw==",
+      "path": "xceed.words.net/1.7.20076.14010",
+      "hashPath": "xceed.words.net.1.7.20076.14010.nupkg.sha512"
+    }
+  }
+}

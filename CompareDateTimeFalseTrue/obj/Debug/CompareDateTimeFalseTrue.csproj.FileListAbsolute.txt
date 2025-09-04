@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareDateTimeFalseTrue\bin\Debug\CompareDateTimeFalseTrue.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareDateTimeFalseTrue\bin\Debug\CompareDateTimeFalseTrue.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareDateTimeFalseTrue\bin\Debug\CompareDateTimeFalseTrue.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareDateTimeFalseTrue\obj\Debug\CompareDateTimeFalseTrue.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareDateTimeFalseTrue\obj\Debug\CompareDateTimeFalseTrue.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareDateTimeFalseTrue\obj\Debug\CompareDateTimeFalseTrue.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareDateTimeFalseTrue\obj\Debug\CompareDateTimeFalseTrue.pdb

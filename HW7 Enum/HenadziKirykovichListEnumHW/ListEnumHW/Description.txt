@@ -1,0 +1,55 @@
+1. Create a new console project, call it ListEnumHW
+
+2. Right click on the new project and select   >> new<<     then     >> class <<    give the new class the name Students. That will create a new file, Students.cs, with an empty class definition. We will put 4 classes and 2 enums all in this one file.
+
+3. Mark the class as abstract
+
+4. Add 1 property to this class, a string property named LastName.
+
+5. Inside this same class file (not inside the Students class) add these things below. When you are done, this one Students.cs file will have 4 class definitions and 2 enum definitions.
+
+a. Create an enum called ClassSize with 3 possible values, Large, VeryLarge, ExtemelyLarge.
+
+b. Create an enum called Colors with 3 possible values, red, blue, green.
+
+c. Create a new class called GradeSchool which inherits from Students.
+
+i. Add a property of type  enum ClassSize named Size
+ii. Add a property of type enum Colors named FavoriteColor
+iii. Add a constructor that takes in 2 parameters. The first parameter is of type enum Color. It should use that passed in value to set its FavoriteColor enum property. The second parameter is a string, which is used to set the LastName property.  Lastly, it should set the enum ClassSize to a value of Large
+
+d. Create a new class called HighSchool which inherits from Students.
+i. Add a property of type  enum ClassSize named Size
+ii. Add a property of type enum Colors named FavoriteColor
+iii. Add a constructor that takes in 2 parameters. The first parameter is of type enum Color. It should use that passed in value to set its FavoriteColor enum property. The second parameter is a string, which is used to set the LastName property.  Lastly, it should set the enum ClassSize to a value of VerryLarge
+
+e. Create a new class called College which inherits from Students.
+i. Add a property of type  enum ClassSize named Size
+ii. Add a property of type enum Colors named FavoriteColor
+iii. Add a constructor that takes in 2 parameters. The first parameter is of type enum Color. It should use that passed in value to set its FavoriteColor enum property. The second parameter is a string, which is used to set the LastName property.  Lastly, it should set the enum ClassSize to a value of ExtremelyLarge
+
+6. Now go back to the Program.cs   Main method and add code to use these classes and enums.
+a. Instantiate 6 objects
+i. A GradeSchool   student1   who likes blue and name is Smith
+ii. A GradeSchool   student2   who likes green and name is Jones
+iii. A HighSchool   student3   who likes red and name is Lee
+iv. A HighSchool   student4   who likes blue and name is Yee
+v. A College    student5   who likes green and name is Adelaida
+vi. A College    student6   who likes red and name is Rossi
+
+b. That should all be done with just 6 lines calling various class constructors. You should not set any properties in the lines following the calls to the constructors.
+
+c. Now create a new List<Students> and add all 6 of these objects to the list. Name the List whatever you like.
+
+d. Now create a foreach loop that goes through this new List and writes out each of the 6 last names.
+
+e. Now create a List<College> and add just student5 and student6, as they are the only College Students we have. Name this second List whatever you like.
+
+f. Now create a foreach loop that goes through this second List and writes out for each object the last name, the class size, and the favorite color.
+
+g. Add a Console.ReadLine(); statement at the end.
+
+h. Your output should look similar to this:
+
+
+

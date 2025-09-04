@@ -1,0 +1,28 @@
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.exe
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.deps.json
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.runtimeconfig.json
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.dll
+C:\Users\info\Desktop\ListEnumHW\bin\Debug\net8.0\ListEnumHW.pdb
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.AssemblyInfo.cs
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.dll
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\refint\ListEnumHW.dll
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.pdb
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ListEnumHW.genruntimeconfig.cache
+C:\Users\info\Desktop\ListEnumHW\obj\Debug\net8.0\ref\ListEnumHW.dll
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\bin\Debug\net8.0\ListEnumHW.exe
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\bin\Debug\net8.0\ListEnumHW.deps.json
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\bin\Debug\net8.0\ListEnumHW.runtimeconfig.json
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\bin\Debug\net8.0\ListEnumHW.dll
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\bin\Debug\net8.0\ListEnumHW.pdb
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\ListEnumHW.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\ListEnumHW.AssemblyInfoInputs.cache
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\ListEnumHW.AssemblyInfo.cs
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\ListEnumHW.csproj.CoreCompileInputs.cache
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\ListEnumHW.dll
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\refint\ListEnumHW.dll
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\ListEnumHW.pdb
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\ListEnumHW.genruntimeconfig.cache
+c:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HW7 Enum\HenadziKirykovichListEnumHW\ListEnumHW\obj\Debug\net8.0\ref\ListEnumHW.dll

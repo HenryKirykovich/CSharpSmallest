@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\bin\Debug\net8.0\C#_HenadziKirykovichHW6.exe
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\bin\Debug\net8.0\C#_HenadziKirykovichHW6.deps.json
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\bin\Debug\net8.0\C#_HenadziKirykovichHW6.runtimeconfig.json
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\bin\Debug\net8.0\C#_HenadziKirykovichHW6.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\bin\Debug\net8.0\C#_HenadziKirykovichHW6.pdb
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\C#_HenadziKirykovichHW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\C#_HenadziKirykovichHW6.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\C#_HenadziKirykovichHW6.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\C#_HenadziKirykovichHW6.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\C#_HenadziKirykovichHW6.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\refint\C#_HenadziKirykovichHW6.dll
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\C#_HenadziKirykovichHW6.pdb
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\C#_HenadziKirykovichHW6.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\C#_HenadziKirykovichHW6\obj\Debug\net8.0\ref\C#_HenadziKirykovichHW6.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Using_Delegate_for_carrier_Method_Event/1.0.0": {
+        "runtime": {
+          "Using_Delegate_for_carrier_Method_Event.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Using_Delegate_for_carrier_Method_Event/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+C:\Users\info\Desktop\DEV110_C++\TRASH\DEV120 - HW 1 - Dog class\bin\Debug\DEV120 - HW 1 - Dog class.exe.config
+C:\Users\info\Desktop\DEV110_C++\TRASH\DEV120 - HW 1 - Dog class\bin\Debug\DEV120 - HW 1 - Dog class.exe
+C:\Users\info\Desktop\DEV110_C++\TRASH\DEV120 - HW 1 - Dog class\bin\Debug\DEV120 - HW 1 - Dog class.pdb
+C:\Users\info\Desktop\DEV110_C++\TRASH\DEV120 - HW 1 - Dog class\obj\Debug\DEV120 - HW 1 - Dog class.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\DEV120 - HW 1 - Dog class\obj\Debug\DEV120 - HW 1 - Dog class.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV110_C++\TRASH\DEV120 - HW 1 - Dog class\obj\Debug\DEV120 - HW 1 - Dog class.exe
+C:\Users\info\Desktop\DEV110_C++\TRASH\DEV120 - HW 1 - Dog class\obj\Debug\DEV120 - HW 1 - Dog class.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\DEV120 - HW 1 - Dog class\bin\Debug\DEV120 - HW 1 - Dog class.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\DEV120 - HW 1 - Dog class\bin\Debug\DEV120 - HW 1 - Dog class.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\DEV120 - HW 1 - Dog class\bin\Debug\DEV120 - HW 1 - Dog class.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\DEV120 - HW 1 - Dog class\obj\Debug\DEV120 - HW 1 - Dog class.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\DEV120 - HW 1 - Dog class\obj\Debug\DEV120 - HW 1 - Dog class.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\DEV120 - HW 1 - Dog class\obj\Debug\DEV120 - HW 1 - Dog class.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\DEV120 - HW 1 - Dog class\obj\Debug\DEV120 - HW 1 - Dog class.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\bin\Debug\DEV120 - HW 1 - Dog class.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\bin\Debug\DEV120 - HW 1 - Dog class.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\bin\Debug\DEV120 - HW 1 - Dog class.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\obj\Debug\DEV120 - HW 1 - Dog class.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\obj\Debug\DEV120 - HW 1 - Dog class.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\obj\Debug\DEV120 - HW 1 - Dog class.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\HenadziKirykovich_DEV120_ HW1_ Dog class\obj\Debug\DEV120 - HW 1 - Dog class.pdb

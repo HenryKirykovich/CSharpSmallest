@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\StackTest\bin\Debug\StackTest.exe.config
+C:\Users\info\Desktop\StackTest\bin\Debug\StackTest.exe
+C:\Users\info\Desktop\StackTest\bin\Debug\StackTest.pdb
+C:\Users\info\Desktop\StackTest\obj\Debug\StackTest.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\StackTest\obj\Debug\StackTest.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\StackTest\obj\Debug\StackTest.exe
+C:\Users\info\Desktop\StackTest\obj\Debug\StackTest.pdb

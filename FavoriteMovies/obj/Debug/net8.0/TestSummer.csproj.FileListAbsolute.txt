@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\TestSummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\TestSummer.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\TestSummer.AssemblyInfo.cs
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\TestSummer.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\TestSummer\bin\Debug\net8.0\TestSummer.exe
+C:\Users\info\Desktop\TestSummer\bin\Debug\net8.0\TestSummer.deps.json
+C:\Users\info\Desktop\TestSummer\bin\Debug\net8.0\TestSummer.runtimeconfig.json
+C:\Users\info\Desktop\TestSummer\bin\Debug\net8.0\TestSummer.dll
+C:\Users\info\Desktop\TestSummer\bin\Debug\net8.0\TestSummer.pdb
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\TestSummer.dll
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\refint\TestSummer.dll
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\TestSummer.pdb
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\TestSummer.genruntimeconfig.cache
+C:\Users\info\Desktop\TestSummer\obj\Debug\net8.0\ref\TestSummer.dll

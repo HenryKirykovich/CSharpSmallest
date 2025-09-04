@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Swap_Bubble_Sort_technique/1.0.0": {
+        "runtime": {
+          "Swap_Bubble_Sort_technique.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Swap_Bubble_Sort_technique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

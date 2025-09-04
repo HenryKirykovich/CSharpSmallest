@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CreatingInterface\bin\Debug\CreatingInterface.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CreatingInterface\bin\Debug\CreatingInterface.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CreatingInterface\bin\Debug\CreatingInterface.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CreatingInterface\obj\Debug\CreatingInterfaceIEnumerable.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CreatingInterface\obj\Debug\CreatingInterfaceIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CreatingInterface\obj\Debug\CreatingInterface.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CreatingInterface\obj\Debug\CreatingInterface.pdb

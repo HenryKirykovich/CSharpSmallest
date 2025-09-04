@@ -1,0 +1,14 @@
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\bin\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.exe
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\bin\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.deps.json
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\bin\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.runtimeconfig.json
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\bin\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.dll
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\bin\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.pdb
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.dll
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\refint\C#Henadzi_Kirykovich_Orange_Juice_HW4.dll
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.pdb
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\C#Henadzi_Kirykovich_Orange_Juice_HW4.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV110_C++\Assignments\C#Henadzi_Kirykovich_Orange_Juice_HW4\obj\Debug\net8.0\ref\C#Henadzi_Kirykovich_Orange_Juice_HW4.dll

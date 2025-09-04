@@ -1,0 +1,21 @@
+C:\Users\info\Desktop\SQL_SaveFile_SaveDates_typicalScript\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.exe.config
+C:\Users\info\Desktop\SQL_SaveFile_SaveDates_typicalScript\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.exe
+C:\Users\info\Desktop\SQL_SaveFile_SaveDates_typicalScript\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.pdb
+C:\Users\info\Desktop\SQL_SaveFile_SaveDates_typicalScript\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\SQL_SaveFile_SaveDates_typicalScript\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\SQL_SaveFile_SaveDates_typicalScript\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.exe
+C:\Users\info\Desktop\SQL_SaveFile_SaveDates_typicalScript\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.pdb
+C:\Users\info\Desktop\C#Programs\SQL_SaveFile_SaveDates_typicalScript\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.exe.config
+C:\Users\info\Desktop\C#Programs\SQL_SaveFile_SaveDates_typicalScript\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.exe
+C:\Users\info\Desktop\C#Programs\SQL_SaveFile_SaveDates_typicalScript\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.pdb
+C:\Users\info\Desktop\C#Programs\SQL_SaveFile_SaveDates_typicalScript\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\C#Programs\SQL_SaveFile_SaveDates_typicalScript\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\C#Programs\SQL_SaveFile_SaveDates_typicalScript\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.exe
+C:\Users\info\Desktop\C#Programs\SQL_SaveFile_SaveDates_typicalScript\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\SQL_SaveFile_SaveDates_typicalScript++\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\SQL_SaveFile_SaveDates_typicalScript++\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\SQL_SaveFile_SaveDates_typicalScript++\bin\Debug\SQL_SaveFile_SaveDates_typicalScript.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\SQL_SaveFile_SaveDates_typicalScript++\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\SQL_SaveFile_SaveDates_typicalScript++\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\SQL_SaveFile_SaveDates_typicalScript++\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\C#Programs\SQL_SaveFile_SaveDates_typicalScript++\obj\Debug\SQL_SaveFile_SaveDates_typicalScript.pdb

@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareTwoNumber\bin\Debug\CompareTwoNumber.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareTwoNumber\bin\Debug\CompareTwoNumber.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareTwoNumber\bin\Debug\CompareTwoNumber.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareTwoNumber\obj\Debug\CompareTwoNumber.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareTwoNumber\obj\Debug\CompareTwoNumber.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareTwoNumber\obj\Debug\CompareTwoNumber.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\CompareTwoNumber\obj\Debug\CompareTwoNumber.pdb

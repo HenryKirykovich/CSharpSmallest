@@ -1,0 +1,5 @@
+C:\Users\info\Desktop\111\1\Thread2.exe
+C:\Users\info\Desktop\111\1\Thread2.dll
+C:\Users\info\Desktop\111\1\Thread2.deps.json
+C:\Users\info\Desktop\111\1\Thread2.runtimeconfig.json
+C:\Users\info\Desktop\111\1\Thread2.pdb

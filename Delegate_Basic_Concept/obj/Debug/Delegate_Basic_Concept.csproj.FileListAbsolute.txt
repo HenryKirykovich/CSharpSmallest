@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\Delegate_Basic_Concept\bin\Debug\Delegate_Basic_Concept.exe.config
+C:\Users\info\Desktop\Delegate_Basic_Concept\bin\Debug\Delegate_Basic_Concept.exe
+C:\Users\info\Desktop\Delegate_Basic_Concept\bin\Debug\Delegate_Basic_Concept.pdb
+C:\Users\info\Desktop\Delegate_Basic_Concept\obj\Debug\Delegate_Basic_Concept.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\Delegate_Basic_Concept\obj\Debug\Delegate_Basic_Concept.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\Delegate_Basic_Concept\obj\Debug\Delegate_Basic_Concept.exe
+C:\Users\info\Desktop\Delegate_Basic_Concept\obj\Debug\Delegate_Basic_Concept.pdb

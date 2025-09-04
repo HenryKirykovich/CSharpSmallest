@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\bin\Debug\net8.0\Recursion_Example.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\bin\Debug\net8.0\Recursion_Example.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\bin\Debug\net8.0\Recursion_Example.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\bin\Debug\net8.0\Recursion_Example.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\bin\Debug\net8.0\Recursion_Example.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\Recursion_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\Recursion_Example.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\Recursion_Example.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\Recursion_Example.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\Recursion_Example.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\Recursion_Example.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\refint\Recursion_Example.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\Recursion_Example.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\Recursion_Example.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Recurrsion_Exemple\obj\Debug\net8.0\ref\Recursion_Example.dll

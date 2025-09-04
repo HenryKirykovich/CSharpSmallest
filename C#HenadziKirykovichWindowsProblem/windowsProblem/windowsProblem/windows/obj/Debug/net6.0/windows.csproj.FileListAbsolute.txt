@@ -1,0 +1,36 @@
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\windows.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\windows.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\windows.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\windows\windows\bin\Debug\net6.0\windows.exe
+C:\Users\kurt.friedrich\Downloads\windows\windows\bin\Debug\net6.0\windows.deps.json
+C:\Users\kurt.friedrich\Downloads\windows\windows\bin\Debug\net6.0\windows.runtimeconfig.json
+C:\Users\kurt.friedrich\Downloads\windows\windows\bin\Debug\net6.0\windows.dll
+C:\Users\kurt.friedrich\Downloads\windows\windows\bin\Debug\net6.0\windows.pdb
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\windows.dll
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\refint\windows.dll
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\windows.pdb
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\windows.genruntimeconfig.cache
+C:\Users\kurt.friedrich\Downloads\windows\windows\obj\Debug\net6.0\ref\windows.dll
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\bin\Debug\net6.0\windows.exe
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\bin\Debug\net6.0\windows.deps.json
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\bin\Debug\net6.0\windows.runtimeconfig.json
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\bin\Debug\net6.0\windows.dll
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\bin\Debug\net6.0\windows.pdb
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.dll
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\refint\windows.dll
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.pdb
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV110_C++\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\ref\windows.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\C#HenadziKirykovichWindowsProblem\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\C#HenadziKirykovichWindowsProblem\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\C#HenadziKirykovichWindowsProblem\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\C#HenadziKirykovichWindowsProblem\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\C#HenadziKirykovichWindowsProblem\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\C#HenadziKirykovichWindowsProblem\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\C#HenadziKirykovichWindowsProblem\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\refint\windows.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\C#HenadziKirykovichWindowsProblem\windowsProblem\windowsProblem\windows\obj\Debug\net6.0\windows.pdb

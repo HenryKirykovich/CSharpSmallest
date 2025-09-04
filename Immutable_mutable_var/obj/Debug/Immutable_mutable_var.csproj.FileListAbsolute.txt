@@ -1,0 +1,7 @@
+C:\Users\info\source\repos\Immutable_mutable_var\bin\Debug\Immutable_mutable_var.exe.config
+C:\Users\info\source\repos\Immutable_mutable_var\bin\Debug\Immutable_mutable_var.exe
+C:\Users\info\source\repos\Immutable_mutable_var\bin\Debug\Immutable_mutable_var.pdb
+C:\Users\info\source\repos\Immutable_mutable_var\obj\Debug\Immutable_mutable_var.csproj.AssemblyReference.cache
+C:\Users\info\source\repos\Immutable_mutable_var\obj\Debug\Immutable_mutable_var.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Immutable_mutable_var\obj\Debug\Immutable_mutable_var.exe
+C:\Users\info\source\repos\Immutable_mutable_var\obj\Debug\Immutable_mutable_var.pdb

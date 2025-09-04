@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DeterminatingDayOfWeek\bin\Debug\DeterminatingDayOfWeek.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DeterminatingDayOfWeek\bin\Debug\DeterminatingDayOfWeek.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DeterminatingDayOfWeek\bin\Debug\DeterminatingDayOfWeek.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DeterminatingDayOfWeek\obj\Debug\DeterminatingDayOfWeek.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DeterminatingDayOfWeek\obj\Debug\DeterminatingDayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DeterminatingDayOfWeek\obj\Debug\DeterminatingDayOfWeek.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\DeterminatingDayOfWeek\obj\Debug\DeterminatingDayOfWeek.pdb

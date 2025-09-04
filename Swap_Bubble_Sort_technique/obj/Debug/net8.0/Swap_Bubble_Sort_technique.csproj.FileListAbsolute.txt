@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\bin\Debug\net8.0\Swap_Bubble_Sort_technique.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\bin\Debug\net8.0\Swap_Bubble_Sort_technique.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\bin\Debug\net8.0\Swap_Bubble_Sort_technique.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\bin\Debug\net8.0\Swap_Bubble_Sort_technique.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\bin\Debug\net8.0\Swap_Bubble_Sort_technique.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\Swap_Bubble_Sort_technique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\Swap_Bubble_Sort_technique.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\Swap_Bubble_Sort_technique.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\Swap_Bubble_Sort_technique.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\Swap_Bubble_Sort_technique.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\Swap_Bubble_Sort_technique.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\refint\Swap_Bubble_Sort_technique.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\Swap_Bubble_Sort_technique.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\Swap_Bubble_Sort_technique.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Swap_Bubble_Sort_technique\obj\Debug\net8.0\ref\Swap_Bubble_Sort_technique.dll

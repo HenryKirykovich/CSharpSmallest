@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Stack_push_pop_find\bin\Debug\Stack_push_pop_find.exe.config
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Stack_push_pop_find\bin\Debug\Stack_push_pop_find.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Stack_push_pop_find\bin\Debug\Stack_push_pop_find.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Stack_push_pop_find\obj\Debug\Stack_push_pop_find.csproj.AssemblyReference.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Stack_push_pop_find\obj\Debug\Stack_push_pop_find.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Stack_push_pop_find\obj\Debug\Stack_push_pop_find.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Stack_push_pop_find\obj\Debug\Stack_push_pop_find.pdb

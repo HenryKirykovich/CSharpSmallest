@@ -1,0 +1,15 @@
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\bin\Debug\net9.0\Distinct_elements_ascending_order.exe
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\bin\Debug\net9.0\Distinct_elements_ascending_order.deps.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\bin\Debug\net9.0\Distinct_elements_ascending_order.runtimeconfig.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\bin\Debug\net9.0\Distinct_elements_ascending_order.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\bin\Debug\net9.0\Distinct_elements_ascending_order.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\Distinct_elements_ascending_order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\Distinct_elements_ascending_order.AssemblyInfoInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\Distinct_elements_ascending_order.AssemblyInfo.cs
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\Distinct_elements_ascending_order.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\Distinct_elements_ascending_order.sourcelink.json
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\Distinct_elements_ascending_order.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\refint\Distinct_elements_ascending_order.dll
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\Distinct_elements_ascending_order.pdb
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\Distinct_elements_ascending_order.genruntimeconfig.cache
+C:\Users\info\Desktop\DEV 120 Object Oriententing Programming DEV120\HomeWork\Distinct_elements_ascending_order\obj\Debug\net9.0\ref\Distinct_elements_ascending_order.dll

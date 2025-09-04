@@ -12,7 +12,7 @@ class Program
         Console.WriteLine("Process start: " + start.ToLongDateString());
         Console.WriteLine("Your converter .mp3-to-Doc");
         string filePath = @"C:\Users\info\Desktop\audio.mp3";
-        string apiKey = "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";
+        string apiKey = "use_own_key";
 
         using var httpClient = new HttpClient();   // nitializes an HTTP client.
         httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer",apiKey);   // Adds your API key to the Authorization header as a Bearer token.
